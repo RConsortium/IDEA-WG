@@ -7,11 +7,11 @@ The goal of the R Community Diversity and Inclusion Working Group (RCDI-WG) is t
 
 Chair (and ISC sponsor): Hadley Wickham
 
-The WG will be seeded with four members: 
+The WG will be seeded with four members:
 - Jenny Bryan, representing FORWARDS
 - Gabriela de Queiroz representing R-Ladies
 - A representation from the R/finance program committee
-- Scott Chamberlain representing CascadiaRConf. 
+- Scott Chamberlain representing CascadiaRConf.
 
 Any interested R community member is also welcome to join (see below for details, and one of the initial missions of the WG will be to recruit a diverse membership.
 
@@ -27,9 +27,12 @@ Any interested R community member is also welcome to join (see below for details
 
 Deliverables will be available in this repo as the group begins work on them.
 
+## License
+
+All project materials are available under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/)
+
 ## Meetings/Discussion
 
 Join the [mailing list](https://lists.r-consortium.org/g/rconsortium-wg-rcdi) to take part in the group.
 
 Meetings are announced via the [mailing list](https://lists.r-consortium.org/g/rconsortium-wg-rcdi) and available on the [calendar](https://lists.r-consortium.org/g/rconsortium-wg-rcdi/calendar). You can review [past meeting notes](meetings) to get up to speed on the discussion.
-
