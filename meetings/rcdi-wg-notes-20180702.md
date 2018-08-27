@@ -8,7 +8,7 @@
 * Kevin O'Brien
 * Kara Woo
 * Hadley Wickham
-* Kaelen Mederios
+* Kaelen Medeiros
 * Samantha Toet
 * Gabriela de Queiroz
 * Jeffrey Hollister
