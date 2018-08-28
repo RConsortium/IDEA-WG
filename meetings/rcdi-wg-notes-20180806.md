@@ -1,6 +1,6 @@
 # RCDI-WG Meeting 2018-08-06
 
-### Attendees
+## Attendees
 
 * Derrick Kearney
 * Jennifer Bryan
@@ -15,7 +15,7 @@
 * Thomas Mock
 * Sydeaka Watson
 
-### Agenda & Meeting Minutes
+## Agenda & Meeting Minutes
 
 * Welcome
 * Organization
@@ -56,7 +56,7 @@
     + Monday, Sept 3 is a US holiday (Labor Day)
     + **Next meeting scheduled for 11am EST on Tuesday, September 4th**
 
-### Future discussions
+## Future discussions
 * Discuss R consortium Code of Conduct generally — how do we enforce it?
 * How are we defining diversity? How do we measure it? Do we want to be able to? Should we be recording/analysing?
 * What happens if a conference agrees to our principles, and then fails to live up to them?
