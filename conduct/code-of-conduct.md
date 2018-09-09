@@ -6,7 +6,7 @@ This code of conduct applies to all `<EVENT>` spaces, including meetups, Twitter
 
 Some `<EVENT>` spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
-Harassment includes:
+### Harassment includes:
 
 * Offensive comments related to gender, gender identity and expression, sexual
 orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
