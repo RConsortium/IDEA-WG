@@ -38,10 +38,10 @@ except as necessary to protect vulnerable people from intentional abuse.
 * Communicating in a 'tone' you don't find congenial.
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
 
-On Slack:
+When participating in online chats, discussion forums, etc.:
 
 * Avoid using overtly sexual or offensive usernames or profile photos which might detract from a friendly, safe and welcoming environment for all.
-* Do not publish text/screenshots of anything shared in Slack without explicit consent from the author.  This includes screenshots of private messages to public channels, as well as conversations on public channels to anywhere outside of `<EVENT>` Slack.
+* Do not publish text/screenshots of anything shared in Slack or other private communication channels without explicit consent from the author.  This includes screenshots of private messages to public channels, as well as conversations on public channels to anywhere outside of `<EVENT>` Slack.
 
 
 ### Reporting
