@@ -1,17 +1,21 @@
 # Code of Conduct
 
-`<EVENT>` is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+`<EVENT>` is dedicated to providing a harassment-free experience for participants at our event(s). `<EVENT>` is a working conference intended for professional networking and collaboration in the R community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. 
 
-This code of conduct applies to all `<EVENT>` spaces, including meetups, Twitter, Slack, mailing lists, both online and offline. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the organizing team.
+A **Code of Conduct** is useful to define accepted and acceptable behaviors and to promote high standards of professional practice. It also provides a benchmark for self evaluation and acts as a vehicle for better identity of the community and organization.
 
-Some `<EVENT>` spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+This code (**CoC**) applies to any participant at `<EVENT>` – developers, participants in meetings, teleconferences, mailing lists, conferences or functions, etc. Note that this code complements rather than replaces legal rights and obligations pertaining to any particular situation.
 
-### Harassment includes:
+## Expected Behavior
 
-* Offensive comments related to gender, gender identity and expression, sexual
-orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
-* Unwelcome comments regarding a person's lifestyle choices and practices,
-including those related to food, health, parenting, drugs, and employment.
+All event participants are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior, and applicable laws.
+
+## Unacceptable Behavior
+
+Harassment will not be tolerated in any form, including but not limited to:
+
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held.
+* Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of 'dead' or rejected names.
 * Gratuitous or off-topic sexual images or behaviour in spaces where they're not
 appropriate.
@@ -38,27 +42,36 @@ except as necessary to protect vulnerable people from intentional abuse.
 * Communicating in a 'tone' you don't find congenial.
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
 
-When participating in online chats, discussion forums, etc.:
+### Harassment in online channels
+
+Participants at `<EVENT>` may also partication in online chats, discussion forums, and mailing lists ( including resources such as Slack and Twitter ). Please use these guidelines where engaging with particpants:
 
 * Avoid using overtly sexual or offensive usernames or profile photos which might detract from a friendly, safe and welcoming environment for all.
-* Do not publish text/screenshots of anything shared in Slack or other private communication channels without explicit consent from the author.  This includes screenshots of private messages to public channels, as well as conversations on public channels to anywhere outside of `<EVENT>` Slack.
+* Do not publish text/screenshots of anything shared in a private communication channels without explicit consent from the author.  This includes screenshots of private messages to public channels, as well as conversations on public channels to anywhere outside of `<EVENT>` Slack.
 
+## What To Do If You Witness or Are Subject To Unacceptable Behavior
 
-### Reporting
+If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of event staff immediately. Event staff can be identified by t-shirts/staff badges onsite; and an organizer can be found at the event registration counter at any time. You can contact the `<RESPONSE TEAM>` via `<CONTACT INFO>`.
 
-If you are being harassed by a member/guest/participant of/at `<EVENT>`, notice that someone else is being harassed, or have any other concerns, please contact `<RESPONSE TEAM>` via `<CONTACT INFO>`. Local incidences will be handled together with the local organisers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
-
-This code of conduct applies to `<EVENT>` spaces, but if you are being harassed by a member/guest/participant of/at `<EVENT>` outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by `<EVENT>` members, especially the organizing team, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The organizing team reserves the right to exclude people from `<EVENT>` based on their past behavior, including behavior outside `<EVENT>` spaces and behavior towards people who are not part of `<EVENT>`.
+While this code of conduct applies to `<EVENT>` spaces, but if you are being harassed by a member/guest/participant of/at `<EVENT>` outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by `<EVENT>` members, especially the organizing team, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The organizing team reserves the right to exclude people from `<EVENT>` based on their past behavior, including behavior outside `<EVENT>` spaces and behavior towards people who are not part of `<EVENT>`.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we've received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of `<EVENT>` members or the general public. We will not name harassment victims without their affirmative consent.
 
+Conference staff will also provide support to victims, including, but not limited to:
+
+- Providing an escort
+- Contacting hotel/venue security or local law enforcement
+- Briefing key event staff to for response/victim assistance
+- And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.
 
 ### Consequences
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. `<EVENT>` reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further `<EVENT>` events, trainings or other activities.
 
-If a participant engages in harassing behavior, the organizing team may take any action they deem appropriate, up to and including expulsion from all `<EVENT>` spaces and identification of the participant as a harasser to other `<EVENT>` members or the general public.
+## Pre-Event Concerns
 
-This policy is licensed under the Creative Commons Zero license.
+If you are planning to attend an upcoming event, and have concerns regarding another individual who may be present, please contact `<RESPONSE TEAM>` via `<CONTACT INFO>`. Precautions will be taken to ensure a victim’s comfort and safety, including, but not limited to: providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
+
+This policy is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
