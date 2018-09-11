@@ -45,7 +45,7 @@ except as necessary to protect vulnerable people from intentional abuse.
 
 ### Harassment in online channels
 
-Participants at `<EVENT>` may also particate in online chats, discussion forums, and mailing lists (including platforms such as Slack and Twitter). Please use these guidelines where engaging with particpants:
+Participants at `<EVENT>` may also participate in online chats, discussion forums, and mailing lists (including platforms such as Slack and Twitter). Please use these guidelines where engaging with particpants:
 
 * Avoid using overtly sexual or offensive usernames or profile photos which might detract from a friendly, safe and welcoming environment for all.
 * Do not publish text/screenshots of anything shared in a private communication channels without explicit consent from the author.  This includes screenshots of private messages to public channels, as well as conversations on public channels to anywhere outside of `<EVENT>` Slack.
