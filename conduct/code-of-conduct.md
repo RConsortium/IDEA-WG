@@ -69,7 +69,7 @@ Conference staff will also provide support to victims, including, but not limite
 
 ### Consequences
 
-If a participant engages in behavior in violation of the CoC, the conference organizers may take any action they deem appropriate, ranging from the issuance of a warning to expulsion from the conference with no refund, depending on the circumstances. `<EVENT>` reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further `<EVENT>` events, trainings or other activities.
+If a participant engages in behavior in violation of the CoC, the conference organizers may take any action they deem appropriate, ranging from issuing a warning to expulsion from the conference with no refund, depending on the circumstances. `<EVENT>` reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further `<EVENT>` events, trainings or other activities.
 
 ## Pre-Event Concerns
 
