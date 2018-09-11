@@ -4,7 +4,7 @@
 
 A **Code of Conduct (CoC)** is useful to define accepted and acceptable behaviors and to promote high standards of professional practice. It also provides a benchmark for self evaluation and acts as a vehicle for better identification of the community and organization.
 
-This code (**CoC**) applies to any participant at `<EVENT>` – developers, participants in meetings, teleconferences, mailing lists, conferences or functions, etc. Note that this code augments rather than replaces legal rights and obligations pertaining to any particular situation.
+This code (CoC) applies to any participant at `<EVENT>` – developers, participants in meetings, teleconferences, mailing lists, conferences or functions, etc. Note that this code augments rather than replaces legal rights and obligations pertaining to any particular situation.
 
 ## Expected Behavior
 
