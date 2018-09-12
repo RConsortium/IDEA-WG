@@ -52,7 +52,7 @@ Participants at `<EVENT>` may also participate in online chats, discussion forum
 
 ## What To Do If You Witness or Are Subject To Unacceptable Behavior
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of event staff immediately. Event staff can be identified by t-shirts/staff badges onsite; and an organizer can be found at the event registration counter at any time. You can contact the `<RESPONSE TEAM>` at `<EMAIL ADDRESS>`.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of event staff immediately. Event staff can be identified by t-shirts/staff badges onsite; and an organizer can be found at the event registration counter at any time. You can contact the `<RESPONSE TEAM>` at `<EMAIL ADDRESS (+ optional PHONE)>`.
 
 While this code of conduct applies to spaces associated with `<EVENT>`, if you are being harassed by a guest/participant of/at `<EVENT>` outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by `<EVENT>` participants seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The `<EVENT>` organizing committee reserves the right to exclude people from `<EVENT>` based on their past behavior, including behavior outside `<EVENT>` spaces and behavior towards people who are not part of `<EVENT>`.
 
@@ -73,6 +73,6 @@ If a participant engages in behavior in violation of the CoC, the conference org
 
 ## Pre-Event Concerns
 
-If you are planning to attend an upcoming event, and have concerns regarding another individual who may be present, please contact `<RESPONSE TEAM>` at `<EMAIL ADDRESS>`. Precautions will be taken to ensure a victim's comfort and safety, including, but not limited to: providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events, and providing onsite contact cell phone numbers for immediate contact.  In extreme cases, we may take action to prevent the harasser from attending the conference.
+If you are planning to attend an upcoming event, and have concerns regarding another individual who may be present, please contact `<RESPONSE TEAM>` at `<EMAIL ADDRESS (+ optional PHONE)>`. Precautions will be taken to ensure a victim's comfort and safety, including, but not limited to: providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events, and providing onsite contact cell phone numbers for immediate contact.  In extreme cases, we may take action to prevent the harasser from attending the conference.
 
 This policy is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
