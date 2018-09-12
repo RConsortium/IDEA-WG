@@ -1,8 +1,10 @@
+This is a template code of conduct that event organizers can use for conferences, meetups, and other events. You'll need to replace the `<EVENT>`, `<RESPONSE TEAM>`, and `<EMAIL ADDRESS>` placeholders with information specific to your event.
+
 # Code of Conduct
 
 `<EVENT>` is dedicated to providing a harassment-free experience for participants at our event(s). `<EVENT>` is a conference intended for professional networking and collaboration in the R community. We encourage the open exchange of ideas and expression and thus require an environment that recognizes the inherent worth of every person and group. 
 
-A **Code of Conduct (CoC)** is useful to define accepted and acceptable behaviors and to promote high standards of professional practice. It also provides a benchmark for self evaluation and acts as a vehicle for better identification of the community and organization.
+A **Code of Conduct** is useful to define accepted and acceptable behaviors and to promote high standards of professional practice. It also provides a benchmark for self evaluation and acts as a vehicle for better identity of the community and organization. If you have general questions about codes of conduct, a good place to start is this [code of conduct FAQ](https://www.ashedryden.com/blog/codes-of-conduct-101-faq#cocfaq).
 
 This code (CoC) applies to any participant at `<EVENT>` – developers, participants in meetings, teleconferences, mailing lists, conferences or functions, etc. Note that this code augments rather than replaces legal rights and obligations pertaining to any particular situation.
 
