@@ -6,7 +6,7 @@ This is a template code of conduct that event organizers can use for conferences
 
 A **Code of Conduct** is useful to define accepted and acceptable behaviors and to promote high standards of professional practice. It also provides a benchmark for self evaluation and acts as a vehicle for better identity of the community and organization. If you have general questions about codes of conduct, a good place to start is this [code of conduct FAQ](https://www.ashedryden.com/blog/codes-of-conduct-101-faq#cocfaq).
 
-This code (CoC) applies to any participant at `<EVENT>` – developers, participants in meetings, teleconferences, mailing lists, conferences or functions, etc. Note that this code augments rather than replaces legal rights and obligations pertaining to any particular situation.
+This code (CoC) applies to any participant at `<EVENT>`, including participants in meetings, teleconferences, and mailing lists, as well as in-person events. Note that this code augments rather than replaces legal rights and obligations pertaining to any particular situation.
 
 ## Expected Behavior
 
