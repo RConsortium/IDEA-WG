@@ -30,18 +30,31 @@ With a well crafted Call for Proposals, it is important to get the word out to t
 #### Links to networks:
 
   1. LatinX in AI: http://www.latinxinai.org 
-    a. Facebook: https://www.facebook.com/latinxinai/ 
-    b. Twitter: https://twitter.com/_LXAI 
-    c. LinkedIn: https://www.linkedin.com/company/latinx-in-ai/ 
+  
+     a. Facebook: https://www.facebook.com/latinxinai/ 
+   
+     b. Twitter: <https://twitter.com/_LXAI> 
+    
+     c. LinkedIn: https://www.linkedin.com/company/latinx-in-ai/ 
+  
   2. BDPA (Black Data Processing Associates): http://bdpa.org  
-    a. Facebook: https://www.facebook.com/NBDPAConference
-    b. Twitter: http://www.twitter.com/BDPA 
-    c. LinkedIn: http://www.linkedin.com/groups?home=&gid=21066&trk=anet_ug_hm 
+  
+     a. Facebook: https://www.facebook.com/NBDPAConference
+    
+     b. Twitter: http://www.twitter.com/BDPA 
+     
+     c. LinkedIn: http://www.linkedin.com/groups?home=&gid=21066&trk=anet_ug_hm 
+
   3. Black in AI: https://twitter.com/black_in_ai?lang=en 
+  
   4. Women in Machine Learning: https://wimlworkshop.org 
-    a. Google Group: https://groups.google.com/forum/#!forum/women-in-machine-learning 
-    b. Facebook: https://www.facebook.com/WomenInMachineLearning/ 
-    c. Twitter: https://twitter.com/wimlworkshop 
+    
+     a. Google Group: https://groups.google.com/forum/#!forum/women-in-machine-learning 
+    
+     b. Facebook: https://www.facebook.com/WomenInMachineLearning/ 
+    
+     c. Twitter: https://twitter.com/wimlworkshop 
+  
   5. Data Science Africa: http://www.datascienceafrica.org 
 
 #### Twitter handles for women and POC networks: 
@@ -100,7 +113,6 @@ This [blog post from kdnuggets](https://www.kdnuggets.com/2018/06/resources-wome
 | Datanauts | @openNASA |
 | Tech Women | @techwomen |
 
-
 ##### Groups with a Membership Fee
 
 | Organization | Twitter Handle |
@@ -108,7 +120,6 @@ This [blog post from kdnuggets](https://www.kdnuggets.com/2018/06/resources-wome
 | Apres | @apresnyc |
 | Tech Ladies | @HireTechLadies |
 | Women in Technology International | @witi |
-
 
 ## Build the Pipeline of Speakers
 
