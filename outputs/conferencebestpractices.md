@@ -17,8 +17,12 @@ The aim of this checklist is for it to be a non-exhaustive but illustrative refe
 - [ ] There is a published Diversity and Inclusion statement around any efforts and policies
 - [ ] Efforts are taken to make the event space able to be navigated with people with mobility issues
 
-
 ## Safety
 - [ ] Social activities associated with the event do not have a strong alcohol focus
 - [ ] Safety of participants using public transportation is taken into account in planning
 - [ ] There is a clear method for participants to avoid being in photography and any social media
+
+## Logistics
+- [ ] There are available methods to display one's pronoun (stickers, pre-printed on badge, write-in space); day-of event all attendees are encouraged to use them.
+- [ ] Scent-free spaces are considered/designated or participants are asked in advance to limit scents
+- [ ] Space is set aside for those who need a quieter zone without much sensory stimulation
