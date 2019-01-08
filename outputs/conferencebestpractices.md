@@ -28,4 +28,4 @@ The aim of this checklist is for it to be a non-exhaustive but illustrative refe
 - [ ] Space is set aside for those who need a quieter zone without much sensory stimulation
 - [ ] Designated space for those with mobility needs is created in rooms used by the conference
 - [ ] An ASL interpreter or live transcription is provided for all keynote/large-events (at minimum)
-- [ ] A mother's room or other designated space is made available
+- [ ] A mother's room or other designated space is made available for those who need the space for breastfeeding/lactation/other needs
