@@ -23,8 +23,9 @@ The aim of this checklist is for it to be a non-exhaustive but illustrative refe
 - [ ] There is a clear method for participants to avoid being in photography and any social media
 
 ## Logistics
-- [ ] There are available methods to display one's pronoun (stickers, pre-printed on badge, write-in space); day-of event all attendees are encouraged to use them.
+- [ ] There are available methods to display one's pronoun (stickers, pre-printed on badge, write-in space); day-of event all attendees are encouraged to use them
 - [ ] Scent-free spaces are considered/designated or participants are asked in advance to limit scents
 - [ ] Space is set aside for those who need a quieter zone without much sensory stimulation
 - [ ] Designated space for those with mobility needs is created in rooms used by the conference
-- [ ] An ASL interpreter is provided for all keynote/large-events, at minimum
+- [ ] An ASL interpreter or live transcription is provided for all keynote/large-events (at minimum)
+- [ ] A mother's room or other designated space is made available
