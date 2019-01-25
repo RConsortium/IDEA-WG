@@ -22,3 +22,5 @@ The aim of this checklist is for it to be a non-exhaustive but illustrative refe
 - [ ] Social activities associated with the event do not have a strong alcohol focus
 - [ ] Safety of participants using public transportation is taken into account in planning
 - [ ] There is a clear method for participants to avoid being in photography and any social media
+- [ ] Emergency services (police, ambulance, fire) contacts are provided
+- [ ] There is a protocol established to for code of conduct issues that covers checkin in on all parties: the person filing an issue, the person who handled the issue, and the person(s) described in the issue.
