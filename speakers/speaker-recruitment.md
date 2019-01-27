@@ -56,8 +56,10 @@ With a well crafted Call for Proposals, it is important to get the word out to t
      c. Twitter: https://twitter.com/wimlworkshop 
   
   5. Data Science Africa: http://www.datascienceafrica.org 
+  
+  6. R-Ladies Global: https://rladies.org 
 
-#### Twitter handles for women and POC networks: 
+#### Twitter handles for women and POC networks:
 
 This [blog post from kdnuggets](https://www.kdnuggets.com/2018/06/resources-women-data-science-machine-learning.html) is a gold mine of contacts and resources that can be used to find speakers who identify as women and underrepresented.
 
