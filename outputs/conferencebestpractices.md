@@ -14,7 +14,7 @@ The aim of this checklist is for it to be a non-exhaustive but illustrative refe
 ## Diversity and inclusion
 - [ ] There is a prominently displayed Code of Conduct with clear internal guidance
 - [ ] The organising team and volunteers receive training on how to handle Conduct violations
-- [ ] There is a published Diversity and Inclusion statement around any efforts and policies
+- [ ] There is a published Diversity and Inclusion statement around any efforts and policies, including accessibility
 - [ ] Efforts are taken to make the event space able to be navigated with people with mobility issues
 
 ## Safety
