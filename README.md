@@ -13,7 +13,7 @@ The WG will be seeded with four members:
 - A representation from the R/finance program committee
 - Scott Chamberlain representing CascadiaRConf.
 
-Any interested R community member is also welcome to join (see below for details, and one of the initial missions of the WG will be to recruit a diverse membership.
+Any interested R community member is also welcome to join (see below for details), and one of the initial missions of the WG will be to recruit a diverse membership.
 
 ## Initial tasks
 
