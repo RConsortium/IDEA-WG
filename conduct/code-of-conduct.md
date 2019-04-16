@@ -40,10 +40,20 @@ except as necessary to protect vulnerable people from intentional abuse.
 
 ### Harassment in online channels
 
-Participants at `<EVENT>` may also participate in online chats, discussion forums, and mailing lists (including platforms such as Slack and Twitter). Please use these guidelines where engaging with particpants:
+Participants at `<EVENT>` may also participate online (see below). Please use these guidelines where engaging with particpants:
 
 * Avoid using overtly sexual or offensive usernames or profile photos which might detract from a friendly, safe and welcoming environment for all.
 * Do not publish text/screenshots of anything shared in a private communication channels without explicit consent from the author.  This includes screenshots of private messages to public channels, as well as conversations on public channels to anywhere outside of `<EVENT>` Slack.
+
+This CoC applies to the all `<EVENT>` online spaces, which includes, but is not limited to:
+
+* Twitter
+* Slack
+* Facebook
+* WhatsApp
+* Gitter
+
+This CoC does not apply only to online channels __during__ the conference. For example, if someone is harassed in a conference related online channel leading up to the event while discussing ideas for the event, it would be treated as a CoC violation.
 
 ## What To Do If You Witness or Are Subject To Unacceptable Behavior
 
