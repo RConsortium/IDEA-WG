@@ -6,7 +6,7 @@ This is a template code of conduct that event organizers can use for conferences
 
 A **Code of Conduct** is useful to define accepted and acceptable behaviors and to promote high standards of professional practice. It also provides a benchmark for self evaluation and acts as a vehicle for better identity of the community and organization. If you have general questions about codes of conduct, a good place to start is this [code of conduct FAQ](https://www.ashedryden.com/blog/codes-of-conduct-101-faq#cocfaq).
 
-This code (CoC) applies to any participant at `<EVENT>`, including participants in meetings and teleconferences, vendors, staff, and volunteers. Note that this code augments rather than replaces legal rights and obligations pertaining to any particular situation.
+This code (CoC) applies to any participant at `<EVENT>`, including participants in meetings and teleconferences, vendors, staff, and volunteers. This CoC generally applies to conference and pre-conference events. Note that this code augments rather than replaces legal rights and obligations pertaining to any particular situation.
 
 ## Expected Behavior
 
@@ -45,15 +45,7 @@ Participants at `<EVENT>` may also participate online (see below). Please use th
 * Avoid using overtly sexual or offensive usernames or profile photos which might detract from a friendly, safe and welcoming environment for all.
 * Do not publish text/screenshots of anything shared in a private communication channels without explicit consent from the author.  This includes screenshots of private messages to public channels, as well as conversations on public channels to anywhere outside of `<EVENT>` Slack.
 
-This CoC applies to the all `<EVENT>` online spaces, which includes, but is not limited to:
-
-* Twitter
-* Slack
-* Facebook
-* WhatsApp
-* Gitter
-
-This CoC does not apply only to online channels __during__ the conference. For example, if someone is harassed in a conference related online channel leading up to the event while discussing ideas for the event, it would be treated as a CoC violation.
+This CoC applies to the all `<EVENT>` online spaces (e.g. Twitter, Slack, Facebook, WhatsApp, Gitter, LinkedIn, Telegram).
 
 ## What To Do If You Witness or Are Subject To Unacceptable Behavior
 
