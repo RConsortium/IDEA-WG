@@ -1,3 +1,5 @@
+Version: 1.0
+
 This is a template code of conduct that event organizers can use for conferences, meetups, and other events. You'll need to replace the `<EVENT>`, `<RESPONSE TEAM>`, and `<EMAIL ADDRESS>` placeholders with information specific to your event.
 
 # Code of Conduct
