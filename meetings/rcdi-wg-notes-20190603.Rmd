@@ -1,0 +1,88 @@
+# RCDI-WG Meeting 2019-06-03
+
+Work tracked on GitHub: https://github.com/RConsortium/RCDI-WG
+
+Member directory: https://docs.google.com/spreadsheets/d/17ymeWiOPfNtkCzVYqbBYMoZ46E-jDIMDnIPINMKy334/edit?usp=sharing
+
+## Attendees
+
++ Samantha Toet
++ Jacqueline Serafin
++ Joe Rickert
++ Sydeaka Watson
++ Gabriela de Queiroz
++ Kevin O'Brien
++ Angela Li
++ Derrick Kearney
++ Kara Woo
++ Noa Tamir
++ Shelmith Kariuki
++ Dennis Iorere
++ Hadley Wickham (late!)
+
+
+## Working Groups
+
++ **[Revised Code of Conduct for Events](https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md)** (Led by Kara Woo & Gabriela de Queiroz)
+    + Updates from Mishi Choudhari (lawyer with CoC expertise) — PR of suggested changes: https://github.com/RConsortium/RCDI-WG/pull/17 (mostly minor clarifications).
+    + Scott has opened a few PRs (statement of values, clarify online space applications) 
+    + JR: Does this CoC need ratification by the RConsortium? Not adopted by RC but available as a resource for events? 
+    + JR: Reconciliation between RC CoC: https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct - compare side by side 
+    + Updates on CoC training for RCDI community members: considered Audrey Eschright, Valerie Aurora, or Sage Sharp from Otter tech (https://otter.technology/blog/2019/04/01/new-workshops-on-code-of-conduct-enforcement/)
+    + Call with Open API folks about their CoC development. Focus on enforcement as that’s the hardest part.
+    + Jacqueline Serafin to ask around inside the LF - Sent email on April 2: https://lists.r-consortium.org/g/Rconsortium-wg-rcdi/topic/resources_for_code_of_conduct/30875708?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,30875708
+
+
++ **[Conference Best Practices Checklist/Badges](https://github.com/RConsortium/RCDI-WG/blob/master/outputs/conferencebestpractices.md)** (Led by Samantha Toet & Noa Tamir — actively recruiting other members as well)
+    + Updates on https://github.com/RConsortium/RCDI-WG/pull/13 and https://github.com/RConsortium/RCDI-WG/pull/14 
+    + Sam reached out to previous subcommittee members and is pulling everything together into one PR
+    + Next step: merge PR and start categorization
+    + How can we incentivise organizers to want to check off more boxes? Maybe we can give badges that they can post on their conference webpages (gold, silver, and bronze?)
+    + NT: post on website, sponsorship prospectus (fast track for sponsorship, sponsors can ask about criteria and confirmations) 
+    + ST & NT to meet in 2 weeks
+    + https://discover-cookbook.numfocus.org/
+
++ **[Guidelines for Recruitment of Diverse Speakers](https://docs.google.com/document/d/13FAb4UwUD4fBhlUi8uRJ9fPWur2cqXT4017nV3J1P3Y/edit)** (Led by Sydeaka Watson, Jenny Bryan, Thomas Mock, Derrick Kearney, Richard Ngamita, and Shelmith Kariuki) 
+    + Virtually met with Lorena Mesa and Naomi Cedar as representatives from PyCon and the Python community. They have expressed interest in speaking to the RCDI-WG. Topics that came up include:
+        + Transcode, a Trans-focused code group
+        + Interest in human language diversity, Spanish track at Pycon
+        + Project Alloy (https://projectalloy.org) - scholarships for groups underrepresented in tech to present at conferences.
+    + Still working towards inviting first conference organizer to share their experiences recruiting diverse speakers, at this meeting:
+        + Propose inviting CSV,conf in August or September
+        + Generated starter questions for speakers:
+        + What's your definition of diversity? What types of diversity are you focussing on (gender, racial/ethnic, sexual orientation, etc.)?
+        + What strategies have you used to encourage participation of diverse speakers? What worked? What didn't? Do you send invitations to professional organizations or social media channels that target specific types of groups?
+        + Do you collect any data to track the types of diversity that are present in your speaker lineups? Do you set any goals/targets? Do you have any data to show trends of how diversity in your speaker lineup is changing over time?
+    + VNext meeting scheduled for June 13, 2019 1:30pm Eastern / 5:30pm UTC , Calendar invite coming soon.
+    + Need to talk about:
+        + How to memorialize the conversations, video, post-conversation blog post
+        + Possibly invite multiple groups to speak at one meeting.
+    + Notes:
+        + R Forwards have built up contacts with TransCode https://twitter.com/annajayne/status/1132208852705959936 There was an event in Cardiff last November and two trans*code hackathons in London.
+        + Tips from Noa Tamir via the Newcastle satRday organisers is to ask about who you could invite/ (who) people would like to see in the registration questions / post event surveys.
+
++ **R in Africa** (Led by Shelmith Kariuki & Dennis Irorere)
+    + Connecting with organisers throughout Africa: https://docs.google.com/spreadsheets/d/1glUQ7k8Sr8s3V0yL_H3At66nfhfrLPuMh2rckh761eg/edit#gid=0 
+    + 4 months old!
+    + Going to France for UseR
+    + Starting to think about African R conference:
+        + Would it  be easier to start regionally? (eg. East africa). If so, should we run at the same time? Or is it better to focus efforts on a single conference?
+        + How do we attract sponsors? 
+    + Data Science Africa (Python workshop) http://www.datascienceafrica.org/
+        + Happening now — first time with presentations about R
+    + Working on website: listing RUser groups, goal is to launch at UseR
+        + ![](africar1.png)
+        + ![](africar2.png)
+    + RUsers Tanzania - May 18 potential launch
+    + Meetup support:
+        + Funds: snacks, venues
+        + RUser Group sister cities
+        + Remote paid internships and jobs
+    + SatRdays Kampala - 80 participants! 
+        + Received a lot of sponsorship support after promoting on social media
+        + SatRdays Kenya
+
+**Next meeting: Monday, July 1st 7:00pm to 8:00pm (GMT+00:00) UTC**
+
+
+
