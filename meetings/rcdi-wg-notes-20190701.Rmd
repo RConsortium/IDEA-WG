@@ -1,0 +1,43 @@
+# RCDI-WG Meeting 2019-07-01
+
+Work tracked on GitHub: https://github.com/RConsortium/RCDI-WG
+
+Member directory: https://docs.google.com/spreadsheets/d/17ymeWiOPfNtkCzVYqbBYMoZ46E-jDIMDnIPINMKy334/edit?usp=sharing
+
+Present: Samantha Toet, Jacqueline Serafin, Kara Woo, Kevin O’Brien, Joseph Rickert, Shelmith Kariuki, Derrick Kearney, Hadley Wickham, Katherine Simeon, Noa Tamir
+
+# Working Groups
+
+## Revised Code of Conduct for Events
+
+(https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md; Led by Kara Woo & Gabriela de Queiroz)
+
+Code of conduct group has tied up loose ends from Mishi, and added a couple of clarifications to readme. So now is in a good place to advertise. 
+
+KW stepping back from leading this group. And we’ll wrap up and re-open in the future if needed.
+
+## Conference Best Practices Checklist/Badges
+
+(https://github.com/RConsortium/RCDI-WG/blob/master/outputs/conferencebestpractices.md; Led by Samantha Toet & Noa Tamir — actively recruiting other members)
+
+Adding more entries from NumFocus cookbook. ST + NT planning to meet and categorise, and then will circulate back to group for more feedback.
+
+## Guidelines for Recruitment of Diverse Speakers
+
+(https://docs.google.com/document/d/13FAb4UwUD4fBhlUi8uRJ9fPWur2cqXT4017nV3J1P3Y/edit; Led by Sydeaka Watson, Derrick Kearney)
+
+Met on June 13. Discussed getting 2-3 conference organisers in a RCDI meeting to have 20 minute conversation. Brainstorming about format — 15 minutes of conversation between organiser & moderator, then 5 minutes conversation. That would take about an hour for two organisers. Plan for something in October? 
+
+So far have talked to csvconf (), and pycon (Laurena? Mesa? & Naomi Ceder?). 
+
+From Kevin O’Brien: R-FORWARDS planning a panel on Friday at useR: https://github.com/forwards/conferences/blob/master/user2019_plans.md 
+
+## R in Africa
+
+(Kariuki Shelmith, Dennis Irorere)
+
+Website is live. Nairobi hosting 2nd meetup on July 20. Planning for more than just meetup launches. We are hoping that in every month, the groups will be having a training.
+
+## Next Meeting
+
+Next meeting:  Mon, August 5th 7:00pm to 8:00pm (GMT+00:00) UTC
