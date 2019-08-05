@@ -1,0 +1,67 @@
+# RCDI-WG Meeting 2019-08-05
+
+Work tracked on GitHub: https://github.com/RConsortium/RCDI-WG
+
+Member directory: https://docs.google.com/spreadsheets/d/17ymeWiOPfNtkCzVYqbBYMoZ46E-jDIMDnIPINMKy334/edit?usp=sharing
+
+Present: Samantha Toet, Joseph Rickert, Shelmith Kariuki, Sydeaka Watson, Derrick Kearney, Angela Li, Katherine Simeon, Scott Chamberlain
+
+# Working Groups
+
+## Revised Code of Conduct for Events
+
+(https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md; Led by Kara Woo & Gabriela de Queiroz)
+
+Original code of conduct group has tied up loose ends from Mishi, and added a couple of clarifications to README. KW has stepped back from leading this group. 
+
+Discussion about summarization (EX. for agenda and slide) and categorization. ST and JR to discuss editorial clarity, and begin summarizing similarly to Carpentries CoC https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+
+Discussion on enforcement - can this be outlined in the organizer checklist?
+
+## Conference Best Practices Checklist/Badges
+
+(https://github.com/RConsortium/RCDI-WG/blob/master/outputs/conferencebestpractices.md; Led by Samantha Toet & Noa Tamir)
+
+Added entries from NumFocus cookbook and created Google Sheet listing and categorizing all items: https://docs.google.com/spreadsheets/d/1CLRbwqNAEvG8-yeoM0AJsBqXU7Lot3jGFPtNz7zUfYU/edit?usp=sharing. 
+
+Soliciting feedback on items and subsequent categorization and organization. 
+
+Section to be added on time commitment requirements for each item. 
+
+## Guidelines for Recruitment of Diverse Speakers
+
+(https://docs.google.com/document/d/13FAb4UwUD4fBhlUi8uRJ9fPWur2cqXT4017nV3J1P3Y/edit; Led by Sydeaka Watson & Derrick Kearney)
+
+Met on June 13. Discussed getting 2-3 conference organisers in a RCDI meeting to have 20 minute conversation. Brainstorming about format — 15 minutes of conversation between organiser & moderator, then 5 minutes conversation. That would take about an hour for two organisers. Plan for something in October? Will share notes from speaker interviews with team.
+
+So far have talked to csvconf (), and pycon (Lorena Mesa? & Naomi Ceder?).
+
+## R in Africa
+
+(Led by Kariuki Shelmith & Dennis Irorere)
+
+UseR!2019 attendance and presentation was a motivation to many organizers and potential sponsors.
+
+Talks on having ARUM 2020 / 2021 are underway. Currently discussing about the best potential venue (one with less visa requirements, good infrastructure, and a developed R community / several R users). Planning on having 150 - 200 participants for a start. Organisers will be drawn from the OS active African RUGs (about 10 in total). 
+
+Planning to reach out to DSA (Data Science Africa, to get to hear how they organise the event)
+
+Planning to have R workshops in different campuses in Africa. Piloting this with #NairobiR, a few campuses have reached out. If it works well, we can roll it out to the larger Africa.
+
+Lorna Maria to write a blog post on AfricaR on the inspiration, organizers, and different communities. Shelmith finding it difficult to separate #AfricaR from Shelmith / NairobiR. Repost on Rbloggers? 
+
+Progress in Morocco - can foster connections for second regional cluster 
+
+FORWARDS UseR!2019 lunch meeting recurrent theme: diversity in leadership structure of organizations helps build momentum and support 
+
+## Other Items
+
+What does diversity mean to participants outside of the US? Different answers across different locations. (EX. one R user in their entire country)
+
+How can organizers support difficult travel and Visa needs for participants and diversity scholars? Extend timeline, work with participants on an individual need-by-need basis, organizers reach out to embassies, provide more verified information and documentation. 
+
+Updating the README to highlight each group’s activity and update membership. 
+
+## Next Meeting
+
+Mon, September 9th (Note: Sept 2nd is a US holiday), 7:00pm to 8:00pm (GMT+00:00) UTC
