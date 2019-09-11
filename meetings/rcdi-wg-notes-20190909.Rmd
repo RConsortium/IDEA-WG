@@ -1,0 +1,90 @@
+# RCDI-WG Meeting 2019-09-09
+
+Work tracked on GitHub: https://github.com/RConsortium/RCDI-WG
+
+Member directory: https://docs.google.com/spreadsheets/d/17ymeWiOPfNtkCzVYqbBYMoZ46E-jDIMDnIPINMKy334/edit?usp=sharing
+
+Present: Hadley Wickham (rep to ISC), Samantha Toet (chair), Shelmith Kariuki, Katherine Simeon, Kevin O'Brien, Stefanie Butland
+
+## Announcements and Group Updates
+
+* New organization and updated projects: Hadley stepping down as chair, and Samanatha Toet taking over.
+* Updated README — ST going to update readme https://github.com/RConsortium/RCDI-WG with latest activities.
+* Recruitment of new members — Please to reach out to other people in the community who might be interested in participating.
+
+# Working Groups 
+
+### Revised Code of Conduct for Events
+
+(https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md; Led by Kara Woo & Gabriela de Queiroz)
+
+Have spent over a year on this (!!); original group has tied up loose ends.
+
+Next steps:
+
+Discussion about summarization (similarly to Carpentries CoC https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), distribution, and enforcement (possibly in organizer’s checklist?). 
+
+How can we share it with more of the community? Would be great to get some fresh eyes to take a look at the organisation and revise any areas of confusion, and to get conference organisers interested in it and using it.
+
+HW tweeted about it: https://twitter.com/hadleywickham/status/1159910998343606278 - ~100 retweets and ~300 likes, so a fairly popular tweet. Continue to promote via individual twitter accounts
+
+ST to reach out to Joe Rickert about R-consortium (RC marketing person is Jesse Casman) 
+
+ST will pick a day to promote, put in calendar, share via mailing list, and provide some shared text/tweets to get started. Develop list of specific desired actions. If we get too many new members, we can ramp it down.
+
+### Conference Best Practices Checklist/Badges
+
+(https://github.com/RConsortium/RCDI-WG/blob/master/outputs/conferencebestpractices.md; Led by Samantha Toet & Noa Tamir)
+
+Added entries from NumFocus cookbook and created Google Sheet listing and categorizing all items: https://docs.google.com/spreadsheets/d/1CLRbwqNAEvG8-yeoM0AJsBqXU7Lot3jGFPtNz7zUfYU/edit?usp=sharing. 
+
+Soliciting feedback on items and subsequent categorization and organization (EX. importance, effort, time commitment, etc.). Please take a look and add your feedback.
+
+Next steps: categorize, provide examples, and brainstorm badges 
+
+### Guidelines for Recruitment of Diverse Speakers
+
+(https://docs.google.com/document/d/13FAb4UwUD4fBhlUi8uRJ9fPWur2cqXT4017nV3J1P3Y/edit; Led by Sydeaka Watson & Derrick Kearney)
+
+Met on June 13. Discussed getting 2-3 conference organisers in a RCDI meeting to have 20 minute conversation. Brainstorming about format — 15 minutes of conversation between organiser & moderator, then 5 minutes conversation. That would take about an hour for two organisers. Plan for something in October? 
+
+Will share notes from speaker interviews with team. So far have talked to csvconf (), and pycon (Lorena Mesa? & Naomi Ceder?). 
+
+KO exploring first time speaker track at PyCon Limerick Ireland.
+
+### R in Africa
+
+(Led by Shelmith Kariuki & Dennis Irorere)
+
+Local R user groups:
+
+- Many organizations struggling to find venues
+- Helping organizers apply to R Consortium funding 
+
+Conferences:
+
+- SatRdays Nairobi planned for November
+- Talks on having ARUM 2020/2021. Organizers will be drawn from the active OS African RUGS (about 10 in total). Discussing best potential venue (less Visa requirements, good infrastructure, developed R community). Goal is to have 150-200 participants. Looking for help organizing and promoting. 
+- Planning on reaching out to Data Science Africa to hear how they organize their events
+
+Lorna Maria to write a blog post on AfricaR on the inspiration, organizers, and different communities. Repost on Rbloggers.
+
+### Participant Diversity - Visa Project 
+
+(Led by Richard Ngamita, Kevin O'Brien)
+
+How can organizers support difficult travel and Visa needs for international participants and diversity scholars? 
+
+Suggestions: extend timeline, work with participants on an individual need-by-need basis, work with embassies, provide more verified information and documentation. 
+
+Plan is to break out into separate regions and countries to investigate: East Africa, West Africa,  US, and EU.
+
+Looking for additional participants to help out with this research. 
+
+Looking into the possibility of supporting more remote lighting talks. Try at ERUM bc of timezone? Pre-recorded?
+
+## Next Meeting 
+
+Mon, Oct 7th, 7:00pm to 8:00pm (GMT+00:00) UTC
+
+
