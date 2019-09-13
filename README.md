@@ -5,7 +5,8 @@ The goal of the R Community Diversity and Inclusion Working Group (RCDI-WG) is t
 
 ## Membership
 
-Chair (and ISC sponsor): Hadley Wickham
+Chair: Samantha Toet
+ISC Sponsor: Hadley Wickham
 
 The WG will be seeded with four members:
 - Jenny Bryan, representing FORWARDS
@@ -18,14 +19,22 @@ Any interested R community member is also welcome to join (see below for details
 ## Initial tasks
 
 - Publicly recruit other members from the R community
-- Review and revise the existing R Consortium Code of Conduct
-- Develop diversity/inclusivity best practices for R community events
+- Organize, share, and promote an updated code of conduct for events
+- Develop diversity/inclusivity best practices for organizing R community events
 - Provide shortlist of existing resources to help conference organisers improve diversity/inclusivity
 - Develop self-assessed conference badging guidelines
 
 ## Deliverables
 
-Deliverables will be available in this repo as the group begins work on them.
+All of the below deliverables are a work in progress. We are actively recruiting new members to help us with the following:
+
+- [Revised Code of Conduct for Events](https://github.com/RConsortium/RCDI-WG/tree/master/conduct)
+- [Conference Organizers Checklist and Badges](https://github.com/RConsortium/RCDI-WG/blob/master/outputs/conferencebestpractices.md)
+- [Recruitment of Diverse Speakers](https://github.com/RConsortium/RCDI-WG/blob/master/speakers/speaker-recruitment.md)
+- R in Africa 
+- Participant Diversity and Support for International Travel
+
+
 
 ## License
 
