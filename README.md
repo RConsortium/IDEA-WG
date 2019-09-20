@@ -6,6 +6,7 @@ The goal of the R Community Diversity and Inclusion Working Group (RCDI-WG) is t
 ## Membership
 
 Chair: Samantha Toet
+
 ISC Sponsor: Hadley Wickham
 
 The WG will be seeded with four members:
