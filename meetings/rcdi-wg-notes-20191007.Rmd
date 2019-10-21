@@ -1,0 +1,115 @@
+# RCDI-WG Meeting 2019-10-07
+
+Welcome to the R Consortium Diversity and Inclusion working group! 
+
+Today’s Agenda:
+
+- Welcome, overview, & helpful links
+- Introductions
+- Working Groups
+
+Present: Samantha Toet, Sydeaka Watson, Derick Kearney, Jaynal Abedin, Kevin O’Brien, Joseph Rickert, Shelmith Kariuki, Katherine Simeon, Troy Hernandez
+
+## Helpful Links
+
+Work tracked on GitHub: https://github.com/RConsortium/RCDI-WG
+
+Member directory: https://docs.google.com/spreadsheets/d/17ymeWiOPfNtkCzVYqbBYMoZ46E-jDIMDnIPINMKy334/edit?usp=sharing
+
+### Announcements and Group Updates
+
+We’ve been voted a [Top Level Project](https://www.r-consortium.org/projects)! 🎉
+
+Recruitment of new members — please to reach out to other people in the community who might be interested in participating. Please RT announcements on social media. 
+
+# Working Groups
+
+### Organization of the Revised Code of Conduct for Events
+
+(https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md; Led by Joe Rickert, Gabriela de Quieroz, and Samantha Toet)
+
+Original group has tied up loose ends. Looking for new members to help organize, share, promote, and discuss enforcement. 
+
+Next steps:
+
+Discussion about summarization (similarly to Carpentries CoC https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), distribution, and enforcement (possibly in organizer’s checklist?). 
+
+Joe and Samantha working on opening statement about commitment to diversity and subsequent categorization.
+How can we share it with more of the community? We’ll start with social media, and Sam will send drafts and select date. 
+
+### Conference Best Practices Checklist/Badges
+
+(https://github.com/RConsortium/RCDI-WG/blob/master/outputs/conferencebestpractices.md, Led by Samantha Toet & Noa Tamir)
+
+Added entries from NumFocus cookbook and created Google Sheet listing and categorizing all items: https://docs.google.com/spreadsheets/d/1CLRbwqNAEvG8-yeoM0AJsBqXU7Lot3jGFPtNz7zUfYU/edit?usp=sharing. 
+
+Soliciting feedback on items and subsequent categorization and organization.
+
+Next steps: 
+
+Everyone to list the top 5 “must have” items
+
+Think about what resources are needed for each item: knowledge, funds, time
+
+Brainstorm sponsor buy-in (expand to include sponsors, sponsorship discounts for meeting criteria, sponsorship of access, vision, etc.). Reorganize sponsor categories to support needs
+
+### Guidelines for Recruitment of Diverse Speakers
+
+(https://docs.google.com/document/d/13FAb4UwUD4fBhlUi8uRJ9fPWur2cqXT4017nV3J1P3Y/edit; Led by Sydeaka Watson, Derrick Kearney)
+
+Updated notes from pre-meeting interviews with Danielle Robinson, Lorena Mesa, and Naomi Cedar. See above Google Doc.
+
+Proposing new dates for in-meeting interviews. March or April 2020. Keeping format previously discussed: 20 minute conversations, with 15 minutes between organizer and moderator, then 5 minutes conversation / questions from everyone.
+
+New ideas seen at conferences: first time speaker track at PyCon Limerick Ireland
+
+### R in Africa
+
+(Led by Shelmith Kariuki, Dennis Irorere)
+
+Update on local R user groups:
+
+Many organisers struggling to find venues. 
+
+Shelmith and Dennis busy helping organisers apply for R consortium funding
+
+Update on conferences:
+
+Saturdays Nairobi planned for November.
+
+Talks on having ARUM 2020 / 2021 are underway. 
+
+Remote lightning talks? ERUM for time zones? Pre-recorded? 
+
+Planning to reach out to DSA (Data Science Africa to get to hear how they organise the event)
+
+Lorna Maria to write a blog post on AfricaR on the inspiration, organizers, and different communities. Repost on Rbloggers.
+
+### Participant Diversity Visa Support
+
+(Led by Kevin O’Brien, Richard Ngamita)
+
+How can organizers support difficult travel and Visa needs for international participants and diversity scholars? 
+
+Suggestions: extend timeline, work with participants on an individual need-by-need basis, work with embassies, provide more verified information and documentation. 
+
+Look at Visa situation in African regions (East, West). Break out into separate countries? US and EU.
+
+Looking for additional participants to help out with this. 
+
+### Additional Topics
+
+R in Bangladesh - Jaynal Abedin
+
+## Next Meeting
+
+Mon, Nov 4th, 7:00pm to 8:00pm (GMT + 00:00) UTC
+
+
+
+
+
+
+
+
+
