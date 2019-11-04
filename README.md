@@ -1,7 +1,7 @@
 # R Community Diversity and Inclusion Working Group
 
 ## Goal
-The goal of the R Community Diversity and Inclusion Working Group (RCDI-WG) is to broadly consider how the R Consortium can best encourage and support diverse and inclusion. The short-term priority is to define and publicise on best practices for R community events, and ensure that events funded by the R consortium adhere to those guidelines. In the long term, the RCDI-WG will think about how diversity and inclusion can we woven throughout all R consortium activities.
+The goal of the R Community Diversity and Inclusion Working Group (RCDI-WG) is to broadly consider how the R Consortium can best encourage and support diverse and inclusion. The short-term priority is to define and publicise on best practices for R community events, and ensure that events funded by the R consortium adhere to those guidelines. In the long term, the RCDI-WG will think about how diversity and inclusion can we woven throughout all R consortium activities. 
 
 ## Membership
 
@@ -15,7 +15,7 @@ The WG will be seeded with four members:
 - A representation from the R/finance program committee
 - Scott Chamberlain representing CascadiaRConf.
 
-Any interested R community member is also welcome to join (see below for details), and one of the initial missions of the WG will be to recruit a diverse membership.
+Any interested R community member is also welcome to participate.  Join the [mailing list](https://lists.r-consortium.org/g/rconsortium-wg-rcdi), to see the [calendar](https://lists.r-consortium.org/g/rconsortium-wg-rcdi/calendar) to take part in the group. We meet via Zoom on the first Monday of the month, 7:00pm to 8:00pm (GMT+00:00) UTC. If you have any questions about joining the group, feel free to reach out to Samantha Toet at Rconsortium-wg-rcdi@lists.r-consortium.org 
 
 ## Initial tasks
 
@@ -34,7 +34,6 @@ All of the below deliverables are a work in progress. We are actively recruiting
 - [Recruitment of Diverse Speakers](https://github.com/RConsortium/RCDI-WG/blob/master/speakers/speaker-recruitment.md)
 - R in Africa 
 - Participant Diversity and Support for International Travel
-
 
 
 ## License
