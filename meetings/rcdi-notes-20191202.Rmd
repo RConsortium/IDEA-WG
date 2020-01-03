@@ -1,0 +1,65 @@
+# R Community Diversity & Inclusion - Agenda 2019-12-02
+
+Welcome to the [R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)!
+
+Present: Samantha Toet, Kevin O’Brien, Noa Tamir, Joe Rickert
+
+## Helpful Links
+
+Work tracked on Github: https://github.com/RConsortium/RCDI-WG
+
+Member Directory: https://docs.google.com/spreadsheets/d/17ymeWiOPfNtkCzVYqbBYMoZ46E-jDIMDnIPINMKy334/edit?usp=sharing
+
+  
+# Working Groups
+
+### Participant Diversity - Visa Project
+(Kevin O’Brien, Richard Ngamita)
+
+How can organizers support difficult travel and Visa needs for international participants and diversity scholars? 
+Suggestions: extend timeline, work with participants on an individual need-by-need basis, work with embassies, provide more verified information and documentation. 
+
+Next steps: 
+- Teaming up with ForwaRds conference team members to create task force 
+- Brainstorming ideas for supporting Visa requirements for UseR! sponsorships? Meeting with their Diversity Equity and Incluison Core Team on January 16th
+- Write up a README outlining mission
+
+### R in Africa 
+(Shelmith Kariuki, Dennis Irorere)
+
+Forwards blog post: https://forwards.github.io/blog/2019/11/15/the-state-of-r-in-africa/
+
+2020 Conference in Nigeria (at least 6 active groups) - researching venue, would be in French
+Discussing teaming up with SatRdays? https://abidjan2020.satrdays.org/
+
+Allocation of RStudio funds? ST, HW, and SK to discuss how money will be distributed and guidelines for use (similar to RUGs requirements). JR to raise this issue with the R Consortium.
+
+### Guidelines for Recruitment of Diverse Speakers
+(https://docs.google.com/document/d/13FAb4UwUD4fBhlUi8uRJ9fPWur2cqXT4017nV3J1P3Y/edit. Led by Sydeaka Watson, Derrick Kearney)
+
+Updated notes from pre-meeting interviews with Danielle Robinson, Lorena Mesa, and Naomi Cedar. See above Google Doc.
+
+Proposing new dates for in-meeting interviews. March or April 2020. Keeping format previously discussed: 20 minute conversations, with 15 minutes between organizer and moderator, then 5 minutes conversation / questions from everyone.
+
+### Conference Best Practices Checklist/Badges
+(https://github.com/RConsortium/RCDI-WG/blob/master/outputs/conferencebestpractices.md, Led by Samantha Toet & Noa Tamir)
+
+RStudio has officially partnered with [NumFocus](https://numfocus.org/sponsors) as a platinum level sponsor. Noa leading discussions of RConsortium partnership. 
+
+Discussions of disability inclusion: https://github.com/forwards/event_best_practices/blob/master/DRAFTEventBestPracticesDisability1119.md
+
+### Organization of the Revised Code of Conduct for Events
+(https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md; Led by Joe Rickert, Gabriela de Quieroz, and Samantha Toet)
+
+Working on mission and diversity statement. 
+
+Discussion about summarization (similarly to Carpentries CoC https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), and distribution. 
+
+### Next Meeting
+
+Monday, January 6th, 7:00pm to 8:00pm (GMT +00:00) UTC
+
+
+
+
+
