@@ -57,8 +57,6 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 While this code of conduct applies to spaces associated with `<EVENT>`, if you are being harassed by a guest/participant of/at `<EVENT>` outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by `<EVENT>` participants seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The `<EVENT>` organizing committee reserves the right to exclude people from `<EVENT>` based on their past behavior, including behavior outside `<EVENT>` spaces and behavior towards people who are not part of `<EVENT>`.
 
-In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
-
 We will respect confidentiality requests for the purpose of protecting victims of abuse. We will not name harassment victims without their affirmative consent.
 
 Conference staff will also provide support to victims, including, but not limited to:
