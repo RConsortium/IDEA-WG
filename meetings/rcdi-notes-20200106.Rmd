@@ -1,0 +1,85 @@
+# R Community Diversity & Inclusion - Agenda 2020-01-06
+
+Welcome to the [R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)!
+
+Present: Samantha Toet, Derrick Kearney, Dennis Iorere, Joseph Rickert, Shel Kariuki, Kevin O'Brien, Gwynn Sturdevant
+
+## Helpful Links
+
+Work tracked on Github: https://github.com/RConsortium/RCDI-WG
+
+Member Directory: https://docs.google.com/spreadsheets/d/17ymeWiOPfNtkCzVYqbBYMoZ46E-jDIMDnIPINMKy334/edit?usp=sharing
+
+# Announcements
+
+- Our 2020 budget was approved! Now the fun part of allocation planning and logistics…
+  - Need overarching goal of what to achieve in 2020, ST working on draft
+  
+- RStudio is piloting remote watch parties for conf - can we support these or think of supporting something similar for other major R events such as UseR!, WhyR?, or ERUM? 
+  - If you're going to be onsite at rstudio::conf, we could always use volunteers to answer questions from remote participants, give shoutouts to their local communities, or help co-host. (Dennis will be the representative from AfricaR)
+
+- Working on an RConsortium blog post and updated webpage
+  - **TODO: each group to please write ~1-2 paragraphs of 2020 goals, progress made, and future plans by our next meeting on Monday, February 3rd**
+  - each paragraph will be a separate blog post on the RConsortium blog
+- ST to set up channel on RUGS slack
+- Working on logo or icon for promotion and to signify endorsement
+
+# Working Groups
+
+### Participant Diversity - Visa Project
+(Kevin O’Brien, Richard Ngamita)
+
+How can organizers support difficult travel and Visa needs for international participants and diversity scholars? 
+
+- Teaming up with [ForwaRds conference team members](https://forwards.github.io/about/) to create task force 
+- Brainstorming ideas for supporting Visa requirements for UseR! 2020 diversity scholarships.
+  - Meeting with their Diversity Equity and Inclusion Core Team on January 16th
+
+### R in Africa 
+(Shelmith Kariuki, Dennis Irorere)
+
+- Growing quite fast and moving into the Python community 
+- 2020 AfricaR Conference in Nigeria (at least 6 active groups) - researching venue, would be in French
+- Discussing teaming up with SatRdays https://abidjan2020.satrdays.org/
+- Two remote rstudio::conf Africa watch parties: Ibadan and Lagos 
+- Heather from Forwards visiting SatRdays South Africa (sponsored by WhyR)
+  - Social promotion
+
+### Guidelines for Recruitment of Diverse Speakers
+(https://docs.google.com/document/d/13FAb4UwUD4fBhlUi8uRJ9fPWur2cqXT4017nV3J1P3Y/edit. Led by Sydeaka Watson, Derrick Kearney)
+
+Updated notes from pre-meeting interviews with Danielle Robinson, Lorena Mesa, and Naomi Cedar. See above Google Doc.
+
+Proposing new dates for in-meeting interviews. March or April 2020. Keeping format previously discussed: 20 minute conversations, with 15 minutes between organizer and moderator, then 5 minutes conversation / questions from everyone.
+- Dry run with Hadley/Joe following rstudio::conf
+
+- Discussions of a new speaker on ramp program:
+  - KO’B: PyCon Ireland  is offering a first time speaker track
+  - GS: in DC for DCR, they offer something similar the day before with lightning talks 
+  - Steph Locke gave a “How to give a talk” talk
+  - DK: when proposals are accepted, pair new speakers with more seasoned speakers, or support from outside organization to help and train
+
+### Conference Best Practices Checklist/Badges
+(https://github.com/RConsortium/RCDI-WG/blob/master/outputs/conferencebestpractices.md, Led by Samantha Toet & Noa Tamir)
+
+RStudio has officially partnered with [NumFocus](https://numfocus.org/sponsors) as a platinum level sponsor. Noa leading discussions of RConsortium partnership next steps. 
+
+Discussions of disability inclusion: https://github.com/forwards/event_best_practices/blob/master/DRAFTEventBestPracticesDisability1119.md
+
+### Organization of the Revised Code of Conduct for Events
+(https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md; Led by Joe Rickert and Samantha Toet)
+
+Working on mission and diversity statement. 
+
+Interesting resource: https://twitter.com/Samniqueka_H/status/1211723716998189056
+
+Discussion about summarization (similarly to Carpentries CoC https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), and distribution.
+
+### Next Meeting
+
+Monday, February 3rd, 7:00pm to 8:00pm (GMT +00:00) UTC
+
+Note: Samantha will be unavailable at this time as she’ll be traveling back from rstudio::conf - Gwynn or Derrick will lead 
+
+
+
