@@ -1,0 +1,53 @@
+# R Community Diversity & Inclusion - Agenda 2020-02-03
+
+Welcome to the [R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)!
+
+Present: Gwynn Sturdevant (leading while Sam's out), Ahmadou Dicko, Kevin O'Brien, Sydeaka Watson, Derrick Kearney, Angela Li, Joe Rickert
+
+## Helpful Links
+
+Work tracked on Github: https://github.com/RConsortium/RCDI-WG
+
+Member Directory: https://docs.google.com/spreadsheets/d/17ymeWiOPfNtkCzVYqbBYMoZ46E-jDIMDnIPINMKy334/edit?usp=sharing
+
+## Agenda
+
+### R in Africa Updates
+
+Forwards - Heather Turner’s South African tour has been fully financed and they are now working towards her stretch target. Trip is scheduled for the 1st week of March.
+
+Nairobi rstudio::conf watch party went really well
+
+Abdijan - first FrancoAfrican SatRday event went really well. They are watching to see how Heather’s trip to Southern Africa goes and are hopeful for future workshops.
+
+### COC Enforcement
+
+Code of conduct (COC) - Chicago R Collab copied the COC from the RConsortium page and Hadley Wickham noticed a section about “bad faith reports being deleted” that did not seem acceptable. It was deleted without discussion which was problematic for some. Instead of just removing it, discussion and vote would have been more helpful for transparency. There may be a need for this comment for long term projects to not exhaust organizers, but the Chicago R Collab organizers did not feel that they needed that type of protection.
+
+### Conference Organizer's Checklist
+
+There was not a POC Birds of a Feather at rstudio::conf and some folks are interested in correcting this at UseR!. What kind of support is available and what can we do?
+
+- Make a hex sticker
+- Connect UseR!2020 organizers with interested organizers:
+  - Doris from St. Louis
+  - sydeakawatson@gmail.com - to include Kimberly Sellors from Georgetown
+  - telldsk@gmail.com
+  - Kevin.obrien@python.ie
+  - ngamita@gmail.com
+  - Twitter handles of other interested parties (from Kevin): @firstname_debs, @charlenehunterf
+  - Do not want all of the work for POC group to fall on POC.
+- Is this group a slack group or an in person group? Geographic dispersity makes in-person groups challenging. Slack channels seem to lack momentum, but rainbowR made people of diverse  sexuality feel more welcomed and we hope this project can do the same.
+- ISC grant to support this project, will need to be submitted in March with our support.
+- New working group?
+
+Goals of this group:
+
+- Umbrella group for diversity initiatives or where people come with issues?
+- Group should re-look at priorities from last time so we can be responsive to new things quickly.
+- Want to support people so we can make a big difference for them.
+- Advertise about POC group so people can get involved.
+
+
+
+
