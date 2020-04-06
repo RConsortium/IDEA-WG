@@ -1,0 +1,81 @@
+# R Community Diversity & Inclusion - Agenda 2020-03-03
+
+Welcome to the [R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)!
+
+Present: Kevin O’Brien, Samantha Toet, Sydeaka Watson, Joe Rickert, gwynn sturdevant, Shemith Kariuki, Derrick Kearney, Ahmadou Dicko
+
+## Helpful Links
+
++ Past meeting notes: https://github.com/RConsortium/RCDI-WG/tree/master/meetings
++ R-Consortium listing: https://www.r-consortium.org/projects/r-community-diversity-and-inclusion
++ Member Directory: https://docs.google.com/spreadsheets/d/17ymeWiOPfNtkCzVYqbBYMoZ46E-jDIMDnIPINMKy334/edit?usp=sharing
+
+## Agenda
+
++ Goals of RCDI as a whole and progress on deliverables (year in review) 
++ UseR! Support
++ Individual group updates 
+
+### RCDI Goals & Deliverables 
+
+The goal of the R Community Diversity and Inclusion project is to broadly consider how the R Consortium can best encourage and support diversity and inclusion. The short-term priority is to define and publicize best practices for R community events, and ensure that events funded by the R consortium adhere to those guidelines. In the long term, the RCDI will think about how diversity and inclusion can we woven throughout all R consortium activities throughout the world. 
+
+This means our deliverables are:
+
+1. Event Code of Conduct that other event organizers can reference:
+
++ Should serve as kernel CoC: should be more positive in tone and more expressive of goals and commitment. It should also
+point to specific CoCs that people can refer to. 
++ Shouldn't be thought of as a checkbox, but more as a "how-to" guide with examples and references
++ Can refer to: rstudio::conf, RLadies, SatRDay, PyCon
++ Should include section on how to suggest changes and the process (filing issues, PRs, etc.)
++ Should include review every 6 months (can use time out of RCDI meetings)
++ Incentive to use this CoC?
+  + Vetted by RConsortium
+  + Eventually: required for certain types of funding? 
+  + Marketing promotion: EX. RUGs have to write a blog post to receive funding
++ Should we include a section on guidelines for enforement? Best practices? 
++ Should include "how to use this document" guidelines:
+  + Must appoint certain number of people to be on CoC team 
+  + Clear ways to report violations (email alias, tshirt color, etc.)
+  + Communicate follow up plan
+  + Libel issues
+  + Communicate support for reporting party 
+
+2. Provide resources for organizers on planning and supporting events:
+
++ Organizer support checklist and resource repositories
++ Speaker support resources 
+
+3. Support diversity and inclusion at global R events:
++ UseR!2020: 
+  + Visa support still needed. Shel will share draft letter with Sam to share with UseR! team
+  + Template invitation letter that includes:
+    + What the event is about
+    + Why the participant is invited
+    + What they will be doing at the event
+    + Who can they contact for questions
+  + Meetups or Birds of a Feather get togethers? Need to be very conscious of who is the session chair - low cost way to change tone. Prompt organizers to be considerate of this. 
+  + Can we pay for pronoun ribbons if they are not being provided?
+  + Can we support or organize an informal buddy system: a way to pair new participants or diversity scholars together, or at least a way for them to communicate and connect. First-timers meetups?
++ R in Africa:
+  + Heather Turner in South Africa
+  + Leadership team has expanded to 7 members
+  + Ahmadou leading project translating English rstats material to French
+  + Revamping website - conferences, blogs
+  + Data Science Nigeria is starting to embrace more R 
+  + Shelmith and Ahmadou are certified R trainers, with more folks preparing to be certified
+  + Large contingency of scholarships granted from UseR! and ERUM - major difference compared to last year
+  + AfricaR conference in 2ish years
+  + Event planned for end of March/early April - Python and R event in Dakar
+  + Social media support is important (@RConsortium should RT and like)
+  
+
+
+
+
+
+
+
+
+
