@@ -1,0 +1,90 @@
+# R Community Diversity & Inclusion - Agenda 2020-04-06
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+## Present
+- Joseph Rickert
+- Kevin O’Brien
+- Lais Carvalho
+- gwynn sturdevant
+- Derrick Kearney
+- Ahmadou Dicko
+
+Joe Rickert led the discussion and compiled the notes inserted into this agenda.
+
+There was some confusion about the meeting time. Although the meeting appears where it should be on the R Consortium calendar, individual email calendars did not adapt. The group recommends that, in the future, UTC time should be hardcoded in the email announcement for the meeting. 
+
+## Agenda
+
+### Discussion: Remote event support
+
+#### Agenda Questions
+
+What can we do to support the R Community in light of the recent pandemic? Many events are moving online, so is there any way we can support diversity, inclusion, and accessibility in remote R events? 
+
+Some considerations:
+
+- Remote event code of conduct
+- Remote event organizer guide
+- Speaker support for virtual events
+- Is there any way to support infrastructure? What about people that don’t have strong internet access? 
+
+We began the meeting with this topic. Joe asked if anyone recently involved with organizing a virtual conference. There was a lively discussion about what worked at a recent satRday event and the group came to some agreement on best practices. These include: 
+
+1. Structuring the events to promote engagement, and minimize the number of people “zooming out”. 
+2. Setting up chat rooms between talks.
+3. Allowing for coffee breaks.
+4. Making sure the various sessions have themes.
+5. Avoiding long talks: four hour workshops are problematic. They should be broken down into shorter time slots. Some conferences (the upcoming Newcastle satRday for example) are doing away with keynote events altogether, limiting all talks to 25 minutes.
+6. Gwynn advocated for advanced planning, with a mechanism for the principal organizers to delegate specific tasks.
+7. Kevin suggest that properly staffing a virtual conference would require 4 people per track per day.
+8. It would be desirable to raise enough sponsorship money to professionally edit video recordings of the conference.
+9. There is some evidence that charging for workshops in otherwise free conferences is viable and beneficial.
+
+There was also a discussion about whether virtual conferences should try to operate on a global scale covering all time zones, or whether virtual conferences should assume/ target participants coming from a limited number of time zones. Lais noted that the upcoming 24 Python is an example of the former. Kevin noted that for a recent conference that started about lunch time in the UK had a considerable number of Europeans dropping off after 6PM local time. Nevertheless, Gwynn and Lais reported that the R-Ladies event had some very lively chat sessions going well into the night.
+
+So far, it appears that most virtual events with which the group is familiar had about 200 participants. Euro Python is thought to be targeting 300 to 500 people. It is not known whether it is practical to hold a thousand person virtual conference.
+
+There was also a discussion about whether a virtual conference presented an opportunity to further both gender and geographic diversity, and whether any advantages would persist after the world transitioned back to in-person events. In general, the group thought that there were advantages, and that they would persist. For one, virtual technology will make it easier and more acceptable to have speakers present from remote locations, and it will also be possible for people in remote locations to participate in major events. This would help to circumvent visa issues. It was also noted that providing newcomers and junior level people the opportunity to participate from remote locations would contribute to their personal growth and help the R Consortium develop future leaders and organizers. Kevin noted that Why R? is making a point to reach out to people in unusual locations.
+
+As a case study, the group focused on the notoriously bad internet connections Africa, and how good internet connectivity is prohibitively expensive. Kevin suggested that the idea of setting up multiple hubs, in perhaps three different cities would work. That the cities hosting the hubs could rotate from year to year. Joe suggested that a proposal for funding such an arrangement should be made to the E Consortium.
+
+Lais shared the link to the illuminating document satRday Neuchâtel → remote: https://docs.google.com/document/d/1ZXmwVibQKtfCY_HiB49-OhQL-yKhUS9YD9yeMQZH88E/edit?ts=5e8b8b80&pli=1#heading=h.j59zs7742w39
+
+Also see  https://codelandconf.com/ and https://guildconferences.com/ for examples of interesting virtual events.
+
+### Discussion: Soliciting feedback: [draft blog post](https://docs.google.com/document/d/1j15ean18KTa6PoA0LJSXhdgoBIJN_xn87jFPUTacL2I/edit?usp=sharing)
+
+It was agreed that sections 2.) and 5.) of the blog post have been overtaken by current events and need to be rewritten, using some of the material above.
+
+### Individual group updates
+No one on the call was able to give an individual group update.
+
+#### R in Africa
+
+ST reached out to UseR! and sent a draft Visa invitation letter. They are currently holding off all event planning, but should have an update within the next few weeks. 
+
+How is travel being affected by recent events?
+
+## Code of Conduct 
+
+Drafting CoC kernel that includes the following:
+
+- Goals and commitment
+- Sample CoC’s
+- Process overview:
+  - How to suggest changes
+  - How to use this doc
+  - How to report violations
+  - Description of follow up
+  - Support for reporting party
+
+## Helpful Links
+
+- Past meeting notes: https://github.com/RConsortium/RCDI-WG/tree/master/meetings
+- R-Consortium listing: https://www.r-consortium.org/projects/r-community-diversity-and-inclusion
+- Member Directory: https://docs.google.com/spreadsheets/d/17ymeWiOPfNtkCzVYqbBYMoZ46E-jDIMDnIPINMKy334/edit?usp=sharing
+
+
+
+
