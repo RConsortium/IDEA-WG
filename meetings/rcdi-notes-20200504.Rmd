@@ -1,0 +1,38 @@
+# R Community Diversity & Inclusion - Agenda 2020-05-04
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+## Present
+- Samantha Toet
+- Kevin O'Brien
+- Sydeaka Watson
+- Joseph Rickert
+- Gwynn Sturdevant
+- Ahmadou Dicko
+
+## Agenda
+- Confirm everyone has access to Slack channel
+- Next steps on [remote event support](https://docs.google.com/document/d/12KkLkqXoMAe50RV5s7jYClazFJIZPUQsL2D9T12zU6s/edit#):
+  - Compiling and sharing best practices -> possibly blog post or series of posts
+  - Mechanism for remote funding
+- Individual group updates
+- Alimi Eyitayo -> AfricaR
+
+### Supporting Infrastructure for Remote Events
+
+Discussion about using the RConsortium/Linux Foundation pro Zoom account for UseR Groups similar to RLadies and their Calendly account. 
+
+Sam got approval from the RConsortium, how can we get it implemented? Can someone at the LF provision an account?
+
+Communication template for RUG Slack:
+
+":loudspeaker: Hello all, we have Zoom Pro account for chapter meetups!You can see which time slots are available and book any of them through Calendly (link at the bottom). After you book a meeting time, you will receive an email with the Zoom link. We’ve set the availability to 24/7. To let you run your meetups as independently as possible, we have set it up the following way: :information_desk_person:  You will be able to be the Host of the meeting with the associated privileges/controls.  As the Host you can also make co-organizers and presenters Co-Hosts of the meeting. :key:  We will give you the Zoom Host Key with which you can make yourself the Host without anybody of us needing to be online to make you the Host."
+
+Discussed how crucial it is to structure breaks into workshops to prevent Zoom burnout. 
+
+What about in areas where there is no internet or internet is unreliable? 
+
+AfricaR is going to be remote - how can we best support that event?
+
+
+
