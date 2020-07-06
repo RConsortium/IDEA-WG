@@ -1,0 +1,25 @@
+# R Community Diversity & Inclusion - Agenda 2020-06-01
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+## Present
+
+- Samantha Toet
+- Kevin O'Brien
+- Sydeaka Watson
+- Joseph Rickert
+- Gwynn Sturdevant
+- Ahmadou Dicko
+
+## Agenda
+
+- Confirm communication: Slack, Zoom, email, etc. 
+  - ST to add joining info on Github
+  - ST will add slack to Github as well
+
+- Zoom Pro for R User Groups (AfricaR mostly needs this, it was one of the requests I had for today)
+  - How will we communicate it?
+  - Who will manage it?
+  - Instructions and restrictions for use
+
+- Being an Ally in Tough Times presentation (Angela)
