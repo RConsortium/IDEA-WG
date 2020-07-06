@@ -2,7 +2,7 @@
 
 This folder contains a code of conduct (CoC) that event organizers in the R
 community can use. This CoC was adapted from the
-[R-Ladies Code of Conduct](https://rladies.org/code-of-conduct/). 
+[R-Ladies Code of Conduct](https://rladies.org/code-of-conduct/) and the [Linux Foundation Code of Conduct](https://events19.linuxfoundation.org/code-of-conduct/). 
 If you plan to use this CoC for your event, fill in your contact details and any
 other event-specific information. 
 
