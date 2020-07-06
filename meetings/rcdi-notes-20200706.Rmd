@@ -1,0 +1,65 @@
+# R Community Diversity & Inclusion - Agenda 2020-07-06
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+## Present
+
+- Samantha Toet
+- Joseph Rickert
+- Derrick Kearney
+- Kevin O’Brien
+- gwynn sturdevant
+- Rebekah Quinn
+- Shelmith Kariuki
+- Erin Moeller
+- Eyitayo Alimi
+
+## Agenda
+
+Zoom Pro account for AfricaR - Joe
+
+- Has been set up, working on a document with more info about how to use 
+- General process: reserve time on calendar, get approval from Brian from LF, receive login info and other zoom codes
+- Some folks will have direct access to account 
+- Google sheet to be used as calendar to avoid overlap 
+  
+Zoom Pro account for RUGs - Joe
+
+- Received approval from the Linux Foundation
+- Similar to above, working on doc with additional details 
+- Meetings will be tracked on a public RConsortium calendar 
+- Only RUGS and RLadies organizer eligible to use
+- Must comply with CoC
+- Best practices for hosting zoom events: https://www.meetup.com/rladies-santa-rosa/events/271529806/
+- Zoom security tips: https://zoom.us/docs/doc/Securing%20Your%20Zoom%20Meetings.pdf
+
+Updated CoC (including virtual events) - Sam
+
+- https://docs.google.com/document/d/1r_F4kMvAR2FEQVo8talxECb16hJ8WNZ_TmH9hTk5CpU/edit?usp=sharing
+- Please review and comment! 
+  
+RConsortium Diversity & Inclusion Statement - Sam
+
+- RConsortium website and Github
+- Encourage participation with easy joining info 
+- Diversity Charter: https://diversitycharter.org/
+- Support or donation mechanism with other organizations (MiR, NumFocus, ForwaRds)?
+
+TIBCO4Good - Rebekah & Erin
+
+- https://www.tibco.com/tibco4good
+- Launched 4-5 months ago
+- Solving meaningful human challenges though tech innovation and thought leadership
+- Analysis hub - mapping out COVID rates 
+- GatherSmart - symptom tracker app for businesses reopening: https://www.tibco.com/tibco-gathersmart
+
+Speaker Diversity - Derrick
+
+- Invited csv, conf to talk with us about their efforts to put together diverse speaker lineups at their conferences. 
+
+Rin6 - Eyitayo
+
+- Will be first for discussion next week 
+  
+### Next meeting: Monday, August 3rd at 7:00pm UTC
+
