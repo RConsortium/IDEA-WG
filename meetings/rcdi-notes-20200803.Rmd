@@ -1,0 +1,94 @@
+# R Community Diversity & Inclusion - Agenda 2020-08-03
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+## Present
+
+- Sydeaka Watson
+- Justin Shea
+- Lilly Winfree (csv conf)
+- Derrick Kearney
+- Joseph Rickert
+- Danielle Robinson (csv conf)
+- gwynn sturdevant
+- Samantha Toet
+- Jonathan Cain (csv conf)
+- Shelmith Kariuki
+- Kevin O’Brien
+- Eyitayo Alimi 
+
+## Agenda (feel free to add additional items!)
+
+- Intros
+- csv,conf organizer discussion
+- Updated RConsortium virtual event [Code of Conduct](https://github.com/RConsortium/RCDI-WG/pull/26) -> moved to next meeting
+- ForwaRds/RCore on-ramps committee -> moved to next meeting
+- Subgroup updated -> moved to next meeting
+
+## Discussion: csv,conf
+
+- Led by Derrick and Sydeaka, with 
+  - Danielle Robinson - keynote recruitment, runs Code for Science and Society, Danielle@codeforsociety.org
+  - Jonathan Cain - founding head of data services, U of Oregon, jocain@uoregon.edu
+  - Lilly Winfree - Open Knowledge foundation, lilly.winfree@okfn.org
+
+- Resources:
+  - Conference website: https://csvconf.com
+  - Going online: https://csvconf.com/going-online
+  - Past conference presentations: https://www.youtube.com/channel/UCWq7JfT4PJrCZLmxSOVJOww
+
+**Q: What were your goals with respect to diversity in your speaker lineup?**
+
+- Look outside of your existing social network
+- Interdisciplinary vs. specific 
+- Lineup of conf should reflect reality
+
+**Q: Did/do you target any specific groups of individuals?**
+
+- Look at local communities and their interests
+- What is meaningful equity and inclusion in data science? 
+- Reached out to specific people, asked keynotes and other speakers for suggestions if they were unavailable 
+- Reserve space for keynote sessions (no concurrent sessions) and then elevate a few select regular sessions to keynotes 
+  - Offered 1:1’s and additional support to help turn 20 minute talk into 40 minute keynote
+  - Honorary effort keynotes ($500 + travel/lodging)
+
+**Q: Do you work with other communities for collaboration or you just reach out to people within the the data community?**
+
+- Encourage non-experts to speak - target people using data to make change rather than “data scientists”
+- Variety of topics and applications
+- Simplify application process, not a lot of technical requirements that may deter folks from applying 
+  - Removes technical-verbiage barrier
+  
+**Q: How do you build a pipeline to have people apply to regular session talks?**
+
+- Trust and human relationships - the pipeline is previous participants or speakers that tell their colleagues about their positive experiences 
+- Long-term process
+- Significance of others sharing their experiences 
+- Most expensive resource is time
+- Grow personal networks of organizing committee, and groups of people that attended and had a good experience
+
+**Q: Were there some things that didn’t work? Lessons learned?**
+
+- Need to ensure that everything (talk themes, slides, posters, etc.) complies with CoC 
+- Extend the recruitment process
+- Build structure in organizing committee to keep operations on track
+
+**Q: What can the RCDI or other organizations do to support?**
+
+- Support conf organizers with levels of governance: checks, expectations, etc. 
+- Guidance on platforms and security of systems for virtual events
+- Adapt CoC for virtual events, support for swift enforcement
+- Define enforcement procedure in its entirety 
+- Set expectations of how to conduct  
+- Coaching and support for enforcers 
+- Diversity of safety officers 
+- PyCon USA CoC is really informative 
+- OpenDataCon community 
+- https://eventfund.codeforscience.org/blog/
+- https://www.opencon2018.org/code_of_conduct 
+
+#### Next Meeting: Monday, September 14th at 7pm UTC
+
+
+
+
