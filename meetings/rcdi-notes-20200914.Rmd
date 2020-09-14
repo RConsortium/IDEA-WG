@@ -1,0 +1,32 @@
+# R Community Diversity & Inclusion - Agenda 2020-09-14
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+## Present
+
+- Samantha Toet
+- gwynn sturdevant
+- Sydeaka Watson
+- Kevin O’Brien
+- Derrick Kearney
+- Joseph Rickert
+
+## Agenda (feel free to add additional items!)
+
+- Takeaways from [csv,conf organizer discussion](https://github.com/RConsortium/RCDI-WG/commit/81f84fee3372d7828046dedde5a17fd901249691):
+  - Conversation was a big success, thanks to Sydeaka and Derrick!
+  - Learned many new tips, especially elevating speakers to panels and/or keynotes
+  - Need to summarize & share with wider R community - ST will draft blog and share with group by EOW
+  - Would be great to follow up and trade notes on virtual event organizing 
+- Sharing [RConsortium Infrastructure Steering Committee call for proposals](https://www.r-consortium.org/blog/2020/09/01/september-2020-isc-call-for-proposals-now-open)
+  - Succesful proposals historically have a broad impact on the R Community and attempted to solve a specific problem 
+  - Call closes end of September
+  - Process overview and submission requirements: https://www.r-consortium.org/projects/call-for-proposals
+- Updated [RConsortium virtual event Code of Conduct](https://github.com/RConsortium/RCDI-WG/pull/26):
+  - Would love comments/questions/suggestions on pull request
+  - Plan to merge & share after our October meeting
+- [ForwaRds/RCore on-ramps committee](https://github.com/forwards/rcontribution) - is there a way we can participate? 
+
+#### Next meeting: Monday, October 5th, at 7:00pm UTC 
+
+
