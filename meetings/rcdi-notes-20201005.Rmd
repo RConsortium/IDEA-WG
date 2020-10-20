@@ -1,0 +1,43 @@
+# R Community Diversity & Inclusion - Agenda 2020-09-14
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+## Present
+
+- Samantha Toet
+- Derrick Kearney
+- gwynn sturdevant
+- Kevin O’Brien
+- Joseph Rickert
+- Sydeaka Watson
+
+## Agenda
+
+Updated RConsortium virtual event Code of Conduct:
+
+  - PR: https://github.com/RConsortium/RCDI-WG/pull/26
+  - Need to add add strawman & enforceability clause, similar to csv,conf: https://github.com/RConsortium/RCDI-WG/issues/28
+  - How does it compare to existing RConsortium Linux Foundation CoC? https://www.linuxfoundation.org/code-of-conduct/
+  - Many events have linked to the GH repo with this code of conduct, is that satisfactory? Probably not, because each event is unique and needs its own statements about enforceability. Next steps: update to be CoC strawman, something like "How to write a CoC" 
+
+Draft blog outline for csv,conf organizer discussion:
+
+  - Draft: https://docs.google.com/document/d/1TCAZM-W4ake1ulmoXpsbfukpHQS5IwRRuC9LIVwfifA/edit?usp=sharing
+  - still work in progress
+
+Discussion - virtual event diversity scholarships:
+
+- If travel/lodging is no longer an issue, how else can orgs support these initiatives?
+- Can orgs support the cost of data, EX. mobile plan and WiFi vouchers?
+- Can orgs offer supplemental timezone support, EX. consultants for workshops in Oceania hours 
+
+Discussion - Python community updates:
+
+- NumPy (PyData) published overview (26 authors, all male) caused social responses
+- Can we get DISC to participate in a meeting? Or Julia team?
+
+ForwaRds/RCore on-ramps committee:
+- Is there a way we can participate or support? 
+- https://github.com/forwards/rcontribution
+
+## Next meeting: Monday, November 2nd, at 7:00pm UTC 
