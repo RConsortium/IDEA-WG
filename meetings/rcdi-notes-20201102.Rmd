@@ -1,0 +1,50 @@
+# R Community Diversity & Inclusion - Agenda 2020-11-02
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+Past meeting notes can be found here: https://github.com/RConsortium/RCDI-WG
+
+## Present
+
+- Samantha Toet
+- gwynn sturdevant
+- Kevin O’Brien
+- Shamsuddeen Muhammad
+- Sydeaka Watson
+
+## Agenda 
+
+[Code of Conduct Guide - Draft](https://docs.google.com/document/d/1fCx5zfANmteeMDuLzp1vIlZUEstbsFLwE7qXaM0cjzo/edit?usp=sharing) 
+
+- This is a “how to” guide for organizers to create a code of conduct that is unique to their event in regards to behavior, communication, and enforceability both in the digital and in-person space. 
+- As most events turn virtual, there is a new need to address how a CoC can be adapted to fit an online event. 
+- Discussion: [NumFocus CoC violation](https://www.fast.ai/2020/10/28/code-of-conduct/) and [subsequent response](https://numfocus.org/blog/jeremy-howard-apology). Key takeaways:
+  - Communication expectations need to be explicitly outlined for each party
+  - Maybe the event organizers could consider "tiers" of offenses and subsequent responses: serious breach vs. complaint? 
+  - Assumption of guilt can be problematic
+  - The process for each type of complaint should be outlined (ex. 3rd party reports)
+- Question for next week - should a CoC have a statement of values or is that out of scope? 
+- What other groups should we ask their input for? RLadies Global, Jupyter Community? 
+  
+  
+[Draft blog outline for csv,conf organizer discussion](https://docs.google.com/document/d/1TCAZM-W4ake1ulmoXpsbfukpHQS5IwRRuC9LIVwfifA/edit?usp=sharing) - still work in progress
+
+Follow up from Discussion with Logan Kilapatrick, Julia Community Manager
+
+- Discussed new member onboarding process, communication strategies, and DEI at JuliaCon
+- Should we have a meeting with the organizers of JuliaCon, similar to what we did with csv,conf? Yes. Sam will arrange for early 2021.
+
+Discussion - virtual event diversity scholarships:
+
+- If travel/lodging is no longer an issue, how else can organizations support these initiatives?
+- Kevin: cost of data, EX. mobile plan and WiFi vouchers. Researching costs.  
+  - Can RConsortium/Linux Foundation support this? 
+- Timezone support, EX. workshops in Oceania hours 
+- Shamsudeen: university has resumed in-person classes, zero virtual events because of difficult internet access 
+  - Limited internet makes remote nearly impossible so only folks with reliable internet access such as university affiliates are able to participate remotely. 
+  - Northern Nigeria Meetups (R4DS book club)
+  - More engaged in Python (Google meetups - venue, promotion, snacks, data)
+  - “Digital divide” students buy their own internet, hard bc. subscription-based 
+  - What would be the cost of the internet for 50hr conf? ForwaRds/RCore on-ramps committee - is there a way we can participate? Kevin to research. 
+  
+## Next meeting: Monday, December 7th, at 7:00pm UTC / 2pm ET US
