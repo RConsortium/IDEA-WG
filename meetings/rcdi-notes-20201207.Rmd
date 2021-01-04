@@ -1,0 +1,91 @@
+# R Community Diversity & Inclusion - Agenda 2020-12-07
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+Past meeting notes can be found here: https://github.com/RConsortium/RCDI-WG
+
+## Present
+
+- Samantha Toet
+- Derrick Kearney
+- Kevin O’Brien
+- Sailesh Vezzu
+- gwynn sturdevant
+- Katherine Simeon
+- Alison Hill
+- Joe Rickert
+
+## Agenda
+
+- Revisit 2021 Meeting Timing - is 7pm UTC still a good time for everyone? 
+  - Doodle poll: https://doodle.com/poll/fif3dauwgq29mwsb?utm_source=poll&utm_medium=link
+  
+- #BlackInDataWeek and how the RConsortium could support?
+  - RStudio EDU post: https://education.rstudio.com/blog/2020/11/blackindataweek/  
+  - Roster of events: https://blkindata.github.io, organized by Kimberly D. @DataKimist
+  - Data viz challenge, Data Viz Society DC 
+  - Very well done social media event; run by individuals
+  - BlackTides
+    - KO: https://www.linkedin.com/company/blacktidesdata/ They plugged a talk with Sydeaka and Lais on their feed https://www.youtube.com/watch?v=hul0cOBgqPQ&t=308s
+    - Hype up event leading up, mobilizing community
+    - Gs: https://mathematicallygiftedandblack.com/ Social post about promoting events
+  -JR: there are many high-profile controversies to consider so we need to be careful with how we interact, such as a vetting process. 
+    - EX. https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/ do we respond? If so, how?
+    - She founded BlackInAI, AIEthics community is in uproar, NeuralIPs is going on now, problems with Google NLP search algorithm
+    - Dec 4th, Nearly 800 Google employees signed in solidarity  
+https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382
+  - Are there other groups that we could elevate? 
+
+- Goals of our working group - encourage people/organizations to:
+  - Join R Consortium
+  - Participate in events
+  - Representation at events/programs
+  - Recruiting speakers- Partnering with other organizations to intentionally organize/develop events
+  - Supporting mentorship and guidance, obtaining resources for underrepresented groups
+
+- 2021 Charter and strategic plan:
+  - Encourage to submit grants → mentoring for grant submissions?
+  - Elevation and promotion
+  - Event support 
+
+- 2021 Plans:
+  - 2 R Consortium conferences R/Medicine and R/Pharma 
+    - How are we involved in this process? 
+    - What does diversity look like at these conferences? 
+  - What can we do to be more inclusive to non-US time zones?
+  - From Kevin O’Brien: Why R? World - a series of short 10-15 minute interviews with R users around the world
+  - Obtaining data and/or metrics from R consortium programming and events
+  - Can we get a needs assessment from community members in underrepresented groups?
+  - Can someone from this committee as a consult for different R Consortium events/groups/programs 
+  - Why R? World - a series of short 10-15 minute interviews with R users around the world)motivating their peers to contribute talks to virtual conferences
+    - Phase 1 hopefuls: 
+      - Somalia
+      - Malawi
+      - Eswatine
+      - Mongolia
+      - Acenscion Island
+      - Lesotho
+
+- Code of Conduct Guide - Draft 
+  - This is a “how to” guide for organizers to create a code of conduct that is unique to their event in regards to behavior, communication, and enforceability both in the digital and in-person space. 
+  - As most events turn virtual, there is a new need to address how a CoC can be adapted to fit an online event.
+    - UseR!2021 and rstudio::global(2021) as case studies:
+      - rstudio::global(2021) interested in using guidelines and so they’ve shared with legal counsel for review and comment - will share with group once we hear back 
+      - Diversity program 
+ - Questions from last week:
+    - Is a statement of values out of scope of a CoC? 
+    - Should there be tiers of offenses and subsequent responses: serious breach vs. complaint? 
+    - What is the process for 3rd party complaints as compared to direct complaints? 
+    - What other groups should we ask their input for? EX. RLadies
+
+- 2021 Budget Proposal Discussion - internet for virtual event diversity scholars 
+  - Kevin has been researching the cost of data, internet, and hardware for supporting diversity scholars and there has been early discussions and proposals for supporting this in the RCDI 2021 budget. How does this fit into an annual budget? EX. Requirements, deliverables
+
+- Draft blog outline for csv,conf organizer discussion - still work in progress
+
+## Next meeting: Monday, January  7th, at 7:00pm UTC 
+
+
+
+
+
