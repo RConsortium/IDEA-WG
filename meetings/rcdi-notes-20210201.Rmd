@@ -1,0 +1,73 @@
+# R Community Diversity & Inclusion - Agenda 2021-02-01
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+Past meeting notes can be found here: https://github.com/RConsortium/RCDI-WG
+
+## Present
+
+- Samantha Toet
+- Joe Rickert
+- gwynn sturdevant
+- Sydeaka Watson
+- Kevin O’Brien
+
+## Agenda
+
+rstudio::global(2021) recap
+
+- Pros: Pros: Captions in 3 langs, timezone-friendly, [JooYoung Seo’s talk about accessibility](https://rstudio.com/resources/rstudioglobal-2021/accessible-data-science-beyond-visual-models-non-visual-interactions-with-r-and-rstudio-packages/) was especially interesting 
+- Cons: no live captions, more language options would have been good (esp. French), internet-bandwidth issues 
+
+Revisit 2021 Meeting Timing - is 7pm UTC still a good time for everyone? 
+
+- No strong objections to Doodle poll, so we'll stick with this time 
+- Sam to work with Brian at LF about managing daylight savings times in calendar. Might just use a Google calendar invitation instead. 
+
+Goals of our working group - encourage people/organizations to:
+
+- Join R Consortium, to receive additional event support (consulting, review, speaker recs, promo, etc.)
+- Participate in R events
+- Consider diverse representation at events/programs in primary organizing efforts
+- Recruit speakers
+- Partner with other organizations to intentionally organize and develop events
+- Support mentorship and guidance, obtaining resources for underrepresented groups
+- ^^ should be put on Github README and website 
+
+2021 Conference Support: 3 main R Consortium conferences, R/Medicine, R/Pharma, and UseR!2021
+
+- Stephan Kaduke as primary R/Med organizer - building out org team, plans, etc
+- Harvey Leiberman as primary R/Pharma organizer 
+- What can the RConsortium DEI group offer?
+  - Workshop supported by someone in RCDI (ex. Find a speaker to talk about Covid in Brazil, ex. Someone to talk about accessibility updates with a certain software)
+  - Geographic diversity support -> recording, languages, captions, timezones
+  - Network reach (call for workshops, speakers, etc.)
+  - Lead or support a BoF (Birds of a Feather) meetup
+  - CoC support, RCDI membership
+  - Operationalize on the speaker suggestion part, i.e.:
+    - Create a template for promotion within channels
+    - Create a template for social promotion
+    - Suggest that if someone can't speak, who would they recommend in their place? 
+- What do we want conference attendees to know about the RConsortium?
+  - Promote agenda, membership, goals
+  - Social foundations for R Community, so important to promote message along other RConsortium groups (ex. Medical industry)
+  - Frame such that if you’re a member of a pharma or medicine org (for example), you should consider joining
+
+WhyR? World Support & Updates - Kevin
+
+- A series of short 10-15 minute interviews with R users around the world with the goal of motivating their peers to contribute talks to virtual conferences
+- Short, casual community-based chats
+- 6 videos from Ivory Coast, will use as foundation
+- Other round of prospects in Eswatini, Malawi, Somalia -> come back in Spring (after college)
+
+2021 Event Calendar 
+
+- Community calendar that lists all global R community events. Users can search events, add their own, and find speakers and co-organizers. 
+- Multi-lingual? 
+- Will be linked on RCDI RConsortium page 
+- Subcommittee to start meeting and organizing next month 
+- Inspiration: 
+https://r-community.github.io/event-explorer/rcalendar.html
+https://rladies.org/ (calendar embedded)
+
+## Next meeting: Monday, March 1st, at 7:00pm UTC 
