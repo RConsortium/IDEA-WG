@@ -1,0 +1,53 @@
+# R Community Diversity & Inclusion - Agenda 2021-03-01
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+Past meeting notes can be found here: https://github.com/RConsortium/RCDI-WG
+
+## Present
+
+- Joe Rickert
+- Sydeaka Watson
+- Kevin O’Brien
+- Derrick Kearney
+
+## Agenda 
+
+2021 Conference Support 
+
+- Upcoming conferences:
+  - R/Medicine (8/24 - 8/27)
+  - R/Pharma
+  - UseR!2021 (7/5-7/9)
+  - PHUSE Connect US (6/14-6/18)
+  - PHUSE Connect EU (11/15-11/19)
+  - FOSS 4G, https://2021.foss4g.org , 09/27-10/02
+  - WhyRWorld
+  - Data Visualization Society, https://www.datavisualizationsociety.com
+- Joe is working on a blog post to capture dates and info on what kind of help conferences could use.
+With conference funding season approaching, we may need to better document where a good code of conduct is and how to enforce the terms of the code of conduct.
+- We could reach out to each organization to inquire about helping with diversity and inclusion initiatives.
+- Suggest speakers now -> https://github.com/RConsortium/RCDI-WG/blob/master/speakers/speaker-recruitment.md
+  - Operationalize with templates and forms 
+
+2021 Event Calendar 
+
+- Community calendar that lists all global R community events. Users can search events, add their own, and find speakers and co-organizers. 
+- Multi-lingual? 
+- Will be linked on RCDI RConsortium page 
+- Subcommittee to start meeting and organizing next month 
+- Inspiration: 
+    - https://r-community.github.io/event-explorer/rcalendar.html
+    - https://rladies.org/ (calendar embedded)
+- Targeting conferences, workshops. Something more than monthly meetings
+- Open Questions:
+  - Sustainability? Who maintains the list?
+  - Could this be an ISC proposal that the RCDI supports? 
+  
+Revisit [Code of Conduct Guide - Draft](https://docs.google.com/document/d/1fCx5zfANmteeMDuLzp1vIlZUEstbsFLwE7qXaM0cjzo/edit?usp=sharing) 
+
+- This is a “how to” guide for organizers to create a code of conduct that is unique to their event in regards to behavior, communication, and enforceability both in the digital and in-person space. 
+- As most events turn virtual, there is a new need to address how a CoC can be adapted to fit an online event.
+- Used as basis for rstudio::global(2021) code of conduct 
+ 
+## Next meeting: Monday April 5th, at 7:00pm UTC
