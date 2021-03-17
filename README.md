@@ -1,4 +1,4 @@
-# R Community Diversity and Inclusion Working Group
+# R Community Diversity, Equity, and Inclusion Working Group
 
 ## Goal
 The goal of the R Community Diversity and Inclusion Working Group (RCDI-WG) is to broadly consider how the R Consortium can best encourage and support diverse and inclusion across a variety of events and platforms. The short-term priority is to define and publicise on best practices for R community events, and ensure that events funded by the R consortium adhere to those guidelines. In the long term, the RCDI-WG will think about how diversity and inclusion can be woven throughout all R Consortium activities. 
