@@ -1,0 +1,48 @@
+# R Community Diversity & Inclusion - Agenda 2021-04-05
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+Past meeting notes can be found here: https://github.com/RConsortium/RCDI-WG
+
+## Present
+
+- Samantha Toet
+- Shamsuddeen Muhammad
+- gwynn sturdevant
+- Derrick Kearney
+- Kevin O’Brien
+- Sydeaka Watson
+- Joe Rickert
+
+## Agenda
+
+Updated Google Calendar: https://calendar.r-consortium.org
+
+Discussion - [Proposed form for recommending speakers](https://docs.google.com/forms/d/1QMkvjdhLTj6qSe2bmUsltt41zfSu9qJg7fCybueaXuo/edit):
+
+- This form is a way for the community to nominate speakers they would like to hear from at various R conferences. Participants can nominate their colleagues that may not apply, organizers can use it to get specific recommendations, and the RCDI can use it as a database of potential speakers. 
+- Who will maintain? RCDI
+- Can we automate parts of this process? 
+  - Eventually, yes. Sam will research options. 
+- Is there a vetting process for proposed speakers?
+  - Yes: must be a real person, at least 1 resource (Github, etc.), must respond to follow up, and must consent 
+- Form edits: nominees name/email, location, language, email, twitter, linkedin, topic as checkbox (shiny, tidyverse, spatial, time series, ai/ml, data visualization) with other, representation (optional section)  
+- Since this is an expiriment to support 2021 conferences, let's see how the community responds to it, and if they're willing to use it. 
+  - Expiriment: Sam will draft an RConsortium blog explaining the purpose, and we can share via social media 
+- Next steps: Sam will update form and draft blog post to be shared with the rest of the team by Friday 1/9 at the latest. Once we all feel good about the post and form, we can publish from the RConsortium blog and social media. Goal is to review form results and feedback by our May meeting (5/5) 
+
+On hold for next meeting: 
+
+- Discussion - [Code of Conduct best practices](https://docs.google.com/document/d/1fCx5zfANmteeMDuLzp1vIlZUEstbsFLwE7qXaM0cjzo/edit?usp=sharing)
+- Discussion - [Proposed email template for helping organizers](https://docs.google.com/document/d/175W5sCHuZJ009ZE-l8xOvnnJk88E11QpBJSd1tmTgQY/edit?usp=sharing)
+- Communication for social reach (i.e. sharing Twitter/LinkedIN templates) -> let’s come up with an official process for getting the R Consortium to promote your event, and publish this process on Github 
+- Blog post summarizing the above and cross-posted on RCDI webpage / Github 
+- WhyR? World Support & Updates - Kevin
+- 2021 Event Calendar 
+  - Community calendar listing all R-affiliated events 
+  - Should this be a separate working group or ISC project? 
+
+## Next meeting: Monday, May 5th, at 7:00pm UTC (3pm ET)
+
+
+
