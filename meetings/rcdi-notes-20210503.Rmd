@@ -1,0 +1,56 @@
+# R Community Diversity & Inclusion - Agenda 2021-05-03
+
+[R Consortium Diversity and Inclusion Project](https://www.r-consortium.org/projects/r-community-diversity-and-inclusion)
+
+Past meeting notes can be found here: https://github.com/RConsortium/RCDI-WG
+
+## Present
+
+- Samantha Toet
+- Derrick Kearney
+- Joe Rickert
+- Kevin O’Brien 
+- gwynn sturdevant
+
+## Agenda
+
+Reminder: Updated Google Calendar: https://calendar.r-consortium.org
+
+R Consortium retro report:
+
+  - Getting back on schedule with quarterly reports to ISC
+  - Shared google doc with updates 
+  
+2021 Conference Support:
+
+  - Discussion - [Proposed form for recommending speakers](https://docs.google.com/forms/d/1QMkvjdhLTj6qSe2bmUsltt41zfSu9qJg7fCybueaXuo/edit) (revised from April meeting)
+    - Audience: conf organizers (UseR, WhyR, Meetup Groups, etc.)
+    - Maintained by RCDI
+    - Requirements: Real person, at least 1 resource, must respond to follow up email with consent Q’s
+    - Categories vs. topics: leave blank but offer suggestions (biostatistics, shiny app dev, humanitarian research…) EX. R code as an artifact, big picture view and experiences > actual technical capabilities 
+    - Suggest a topic? That can create a repository of talks for people that need inspiration.
+    - [Draft blog post](https://docs.google.com/document/d/1L3Gg30UWrpxwsV8xvpTigDvpydyEzA9vosEGhMDFp74/edit?usp=sharing)
+
+  - Discussion - What can we say/do to get people to surface themselves? (i.e. the [Matilda Effect](https://en.wikipedia.org/wiki/Matilda_effect) by  [Margaret W. Rossiter](https://en.wikipedia.org/wiki/Margaret_W._Rossiter))
+    - Can we get someone knowledgeable (like a historian?) to write a blog post about that? 
+    - Can we get Margaret W. Rossiter (mwr4@cornell.edu) to speak at a conference or RConsortium webinar? If she can’t do it could one of her students or colleagues do it? 
+    - Would this be a recurring webinar series? That is a lot of work and planning, but we might be able to pull in RConsortium marketing resources 
+
+Next steps for June meeting:
+
+- Joe to get marketing team excited about webinar series
+- Sam to finalize survey
+- All to review and approve blog
+- Sam to send to marketing 
+
+On hold for next meeting: 
+
+  - Discussion - Code of Conduct best practices 
+  - Discussion - Proposed email template for helping organizers 
+  - Communication for social reach (i.e. sharing Twitter/LinkedIN templates) -> let’s come up with an official process for getting the R Consortium to promote your event, and publish this process on Github 
+  - Blog post summarizing the above and cross-posted on RCDI webpage / Github 
+  - WhyR? World Support & Updates
+  - 2021 Event Calendar -> Community calendar listing all R-affiliated events; Should this be a separate working group or ISC project? 
+
+
+## Next Meeting: Monday, June 7th, at 7:00pm UTC (3pm ET)
