@@ -1,0 +1,40 @@
+# R Community Diversity & Inclusion - Agenda 2021-06-14
+
+Past meeting notes can be found here: https://github.com/RConsortium/RCDI-WG
+
+## Present
+
+- Samantha Toet
+- Joe Rickert
+- Kevin O'Brien
+
+## Agenda
+
+2021 Conference Support and Outreach:
+
+- Discussion - [Proposed form for recommending speakers](https://forms.gle/UoZQ54FmagytTKTX6) (updated from May meeting)
+  - Draft blog post - ready to share with marketing and Sam will share with Daniella/Jesse
+
+- Another draft blog post for CoC guide -> Sam to draft (Code of Conduct best practices)
+- R/Med support: Sam meeting with Mara and organizing team late June
+- R/Pharma support: still planning but wrapped up in other conferences, will reach out shortly 
+- UseR! 2021: Joe is giving RStudio talk
+- JSM: pushback on cost (speakers have to pay full price for their ticket which is $300+)
+- What international statistical conferences can we support?
+  - Ideally ones focused on sustainable development goals 
+  - Bioconductor, CSP, STSS, Global Fisheries Watch (Dona Bertarelli), OneHealth, https://waset.org/statistics-conferences, https://www.hiltonfoundation.org/sdgs
+  - Let’s pick some small corner that’s heavily data-related that we can support 
+
+WhyR? World Support Updates 
+
+- Things are slowing down due to summer vacations
+- June 3rd: RLadies Takeover 
+  - Curated by Rladies Remote; 3 webinars given over the course of 1 day; presentations from Malaysia, Namibia, and Venezuela
+  - Venezuela one was pre-recorded in sections in case of internet issues which worked out really well for new presenters 
+  - Primary issues: speaker coaching and support and connectivity issues 
+  - Planning on another RLadies takeover in November 
+
+Matilda Effect webinar 
+
+- RConsortium is doing a webinar series -> coordinate with Daniella and R Consortium Marketing team 
+- Coordinate reach out to Margaret Rossiter (invitation letter from RConsortium) or one of her students to discuss the phenomenon 
