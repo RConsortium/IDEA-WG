@@ -1,0 +1,56 @@
+# R Community Diversity & Inclusion - Agenda 2021-07-12
+
+Past meeting notes can be found here: https://github.com/RConsortium/RCDI-WG
+
+Google Calendar: https://calendar.r-consortium.org
+
+## Present
+
+- Samantha Toet
+- Joe Rickert
+- Kevin O'Brien
+- Derrick Kearney
+
+## Agenda
+
+UseR! 2021 Recap:
+
+- Joe gave the RStudio sponsored talk (mission, culture, etc.)
+- Mehar (ProCogia) gave R-Consortium overview, Joe talked a little about it as well
+- Kevin helped to get Youtube subscribers (100 subscribers to livestream)
+- Fleshed out [accessibility program](https://user2021.r-project.org/participation/accessibility/) in parallel to [diversity statement](https://user2021.r-project.org/about/diversity_statement/) (no diversity scholars)
+  - First example of really thoughtful accessibility guidelines, interested in learning more about costs to implement 
+
+Speaker recommendation blog: https://docs.google.com/document/d/1L3Gg30UWrpxwsV8xvpTigDvpydyEzA9vosEGhMDFp74/edit?usp=sharing
+
+- Shared with R-Consortium Marketing Committee to publish and promote 
+
+CoC best practices blog:
+
+- CoC guide: https://docs.google.com/document/d/1fCx5zfANmteeMDuLzp1vIlZUEstbsFLwE7qXaM0cjzo/edit?usp=sharing 
+- Need to add COVID awareness clause and guidance in CoC for coming back to in-person conferences: 
+  - Responsibility of conference hosts to make informed decisions about travel and participation. They need to know regulations, inform participants, and enforce the regulations. Emphasis on personal responsibility. 
+  - Enforcement and legality? Different jurisdictions have different requirements
+    - Some companies can force people to vaccinate for company events, but conferences cover many companies and jurisdictions
+    - Food and socialization is going to be very different: EX. no buffets, smaller indoor gatherings, etc. 
+    - Easier to enforce in smaller gatherings, travel might not be as encouraged as folks are used to virtual events
+ - All events will need location-specific COVID statements posted onsite, online, and in CoC
+  - Some items to consider: providing masks?, requiring proof of vaccination?, virtual options, enforcement policies/plan, reporting mechanism, etc. 
+    - Now that there’s more serious responsibilities at stake (worst case: become a super-spreader), how will this affect casual, volunteer organizers? Will they be less inclined to participate?
+    - This fits in with sustainable development goals (https://twitter.com/1GlobalAcademy) 
+- *Next steps: draft CoC statement and blog*
+
+R/Medicine DEI Support: met with Mara Alexeev in June and discussed their plans for accessibility (subtitled, multi-lingual captions, timing), diversity scholarships and training opportunities, and ways to support areas with limited internet access (i.e. ability to decrease streaming quality to avoid outages and hiccups) 
+
+R-Consortium Matilda Effect webinar (part of monthly webinar series)
+
+  - Coordinate reach out to Margaret Rossiter -> *Sam & Joe to draft invitation and review in Aug meeting*
+  - Can we use Daniella Mark’s webinar overview description? 
+  - Live on Youtube? Then share recording? Or webinar that people register for? 
+
+Black in Data week: https://blkindata.github.io/bidweek2020/#:~:text=A%20week%2Dlong%20celebration%20%23BlackInDataWeek,3)%20educational%20and%20professional%20resources.
+
+  - Is there any way that we can support? Promo and cross-posting? 
+  - Put on RConsortium calendar once they promote 
+
+## Next meeting: Monday, August 2nd at 7:00pm UTC (3pm ET)
