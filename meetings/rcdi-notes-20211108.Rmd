@@ -1,0 +1,57 @@
+# R Community Diversity & Inclusion - Agenda 2021-11-08
+
+Past meeting notes can be found here: https://github.com/RConsortium/RCDI-WG
+
+Google Calendar: https://calendar.r-consortium.org
+
+## Present
+
+- Joseph Rickert
+- Samantha Toet
+- Derrick Kearney
+- Kevin O’Brien
+- gwynn sturdevant
+
+## Agenda
+
+#### 1. Review 2022 Mission:
+  + Give a voice to people that otherwise wouldn’t have a channel, by offering:
+    + Event guidance for organizers
+    + Marketing engine 
+  + Secondary: recruit RC members; partner with other organizations
+  
+- Joe has been managing RUGS groups and grants (groups < $500, confs < $1000)
+  - Lots of overhead with RCDI 2022 goals
+  - Collaborating w/these groups via RConsortium Marketing team (Grant acceptance turns into blog posts)
+  - Lots of overhead and logistics (review requests, research groups, allocate $, monitor)
+  - Joe to show Sam mechanics of RUGS program and present to larger group
+  - Can RCDI help RUGS and vice-versa? Maybe RCDI sees proposals and helps with screening, RCDI to promote RUGS program. What can we contribute that only we can?
+  - RConsortium zoom account for RUGS groups? OS video editing software? What other resources would they need? Kevin
+
+RC Marketing can shape posts, but not draft them. Goal = more collaborative, less handoff 
+
+RFoundation and Vanderbilt (UseR 2022) wants RCDI support, expertise from RFoundation from putting together many events (EX. fundraising, CoC, accessibility) → accumulate expertise instead of new group of volunteers each time 
+  - What does RLadies do for funding besides RConsortium grants? Are the grants helpful?
+  - How does it compare to python community meetups? (organized/funded partially by Numfocus)
+
+R/Medicine 2022: can we suggest workshops and/or speakers? What can we contribute? 
+
+#### 2. Proposal to rename to R-Consortium R Community IDEA to better reflect mission (Inclusion, Diversity, Equity, and Accessibility) 
+  - 5/5 Agreed 
+  - Sam to reach out to LF to discuss rebrand 
+
+gwynn is doing a lot of work on data visualization for the blind: https://www.google.com/search?client=firefox-b-1-d&q=astronomical+sonification 
+
+  - Can we fund her work? Sam to ask for $$ from RConsortium
+  - JY Seo’s talk at global was one of the most popular: https://www.rstudio.com/resources/rstudioglobal-2021/accessible-data-science-beyond-visual-models-non-visual-interactions-with-r-and-rstudio-packages/
+
+#### 3. Request from RConsortium: 3-minute video summarizing goals and projects
+
+#### 4. Ongoing projects:
+
+- SatRdays & AfricaR videos & blog
+- Promo of other R-User Groups & RLadies (RLadies Iran, RLadies Botswana, Mongolia, others...)
+- Invite Mirabai (pycon) to working group meeting and interview them, and then share interview as blog (then invite as speaker) (EX. https://www.alterconf.com/) 
+- Job board
+- Webinar planning
+
