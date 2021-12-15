@@ -1,7 +1,7 @@
-# R Community Inclusion, Diversity, Equality, & Accesibility (IDEA)
+# R Community IDEA
 
 ## Goal
-The R-Community IDEA is a top level project of the R-Consortium with the goal of broadly considering how the R Consortium can best encourage and support diverse and inclusion across a variety of events and platforms. 
+IDEA stands for Inclusion, Diversity, Equity, and Accessibility. The R-Community IDEA is a top level project of the R-Consortium with the goal of broadly considering how the R Consortium can best encourage and support diverse and inclusion across a variety of events and platforms. 
 
 ## How to Join
 Any interested R community member is encouraged to participate. We meet on the first Monday of every month via Zoom from 7:00pm to 8:00pm (GMT+00:00) UTC. 
