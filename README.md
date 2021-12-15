@@ -1,24 +1,12 @@
-# R Community Diversity, Equity, and Inclusion Working Group
+# R Community Inclusion, Diversity, Equality, & Accesibility (IDEA)
 
 ## Goal
-The goal of the R Community Diversity and Inclusion Working Group (RCDI-WG) is to broadly consider how the R Consortium can best encourage and support diverse and inclusion across a variety of events and platforms. The short-term priority is to define and publicise on best practices for R community events, and ensure that events funded by the R consortium adhere to those guidelines. In the long term, the RCDI-WG will think about how diversity and inclusion can be woven throughout all R Consortium activities. 
+The R-Community IDEA is a top level project of the R-Consortium with the goal of broadly considering how the R Consortium can best encourage and support diverse and inclusion across a variety of events and platforms. 
 
 ## How to Join
 Any interested R community member is encouraged to participate. We meet on the first Monday of every month via Zoom from 7:00pm to 8:00pm (GMT+00:00) UTC. 
 
 Join the [mailing list](https://lists.r-consortium.org/g/rconsortium-wg-rcdi), to see the [calendar](https://lists.r-consortium.org/g/rconsortium-wg-rcdi/calendar) and the Zoom link. You are also welcome to join the [slack channel](https://rusergroups.slack.com/archives/CUF4GTJHY).  If you have any questions about joining, feel free to reach out to Samantha Toet at samantha@rstudio.com or Rconsortium-wg-rcdi@lists.r-consortium.org.  
-
-## Membership
-
-Chair: Samantha Toet
-
-ISC Sponsor: Hadley Wickham
-
-The WG will be seeded with four members:
-- Jenny Bryan, representing FORWARDS
-- Gabriela de Queiroz, representing R-Ladies
-- A representation from the R/finance program committee
-- Scott Chamberlain, representing CascadiaRConf.
 
 ## Initial tasks
 
