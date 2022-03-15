@@ -1,0 +1,45 @@
+# R Community Inclusion, Diversity, Equity, & Accesibility (IDEA) 2022-02-07
+
+Past meeting notes can be found here: https://github.com/RConsortium/RCDI-WG
+
+Google Calendar: https://calendar.r-consortium.org
+
+## Present
+
+- Samantha Toet
+- Joseph Rickert
+- Kevin O'Brien
+
+## Agenda
+
+1. Updates from January meeting: events and the RConsortium
+
+- Reviving [SatRdays](https://satrdays.org/) which is R-Consortium funded
+  - Originally a low-cost way to have R conferences in under-served areas
+  - Last event was in early 2020 - big COVID impact
+  - Each event is very individual-contributor focused, so can be impacted by key person risk, or "lottery winner problem" 
+  - R-Consortium should help to make these events more partnership-focused: i.e. connect them with other nearby local organizers and speakers 
+  - What else can the R-Consortium offer?
+    - Virtual event platform (i.e. Zoom, Hoppin, etc.)
+    - Blog post from RC-IDEA group telling folks that SatRdays are still available to be funded and what is included in funding 
+    - Suggestion: Virtual Francophone SatRdays West Africa
+      - Multiple organizers from different countries
+      - Sponsored by RC-IDEA - volunteers needed to help edit/manage video 
+      - Call for organizers and presenters 
+      - Kevin to email contacts and gauge interest and possible dates
+
+
+- [LondonR](https://www.londonr.org/) has a new organizing committee after Ascent purchase 
+
+2. 2022 planning and collaboration with [RUGS](https://www.r-consortium.org/projects/r-user-group-support-program) program
+
+- R-Consortium and the Linux Foundation are identifying new grant management software for reviewing proposals, tracking payment, and offering more support for organizers 
+- IDEA Group to help manage this software and build relationships with new UseR groups:
+  - Communication line for answering questions
+  - Code of Conduct guideance
+  - RUGS requirements and expectations (webiste, event tracking, agenda, outline of how $ is being used, type of grant, timelines of payment, etc.)
+  - Connect and introduce to other similar groups and organizers (EX. nearby cities in same country or timezone, samples of other websites)
+  - Github repo for guideance 
+  - Promote their speakers to other RC events 
+  
+## Next meeting: Monday, March 7th at 7:00pm UTC
