@@ -1,0 +1,57 @@
+# R Community Inclusion, Diversity, Equity, & Accesibility (IDEA) 2022-03-07
+
+Past meeting notes can be found here: https://github.com/RConsortium/RCDI-WG
+
+Google Calendar: https://calendar.r-consortium.org
+
+## Present
+
+- Samantha Toet
+- Joseph Rickert
+- Kevin O'Brien
+- Elisa Trevino
+- Derrick Kearney
+- gwynn sturdevant
+
+## Agenda
+
+1. Virtual SatRdays Francophone West Africa
+  - Kevin reached out to many organizers (Lucainson Raymond, Ahmadou Dicko, Richard Ngamita, Bry Sylla, Ehouman Evan) and there was a lot of interest 
+  - Collaborating with SatRdays Abidjan (organized by Anicet Eboue) which is a hybrid event 
+  - Next steps:
+    - Finalize date - tentatively June 4th 
+    - Confirm organizing committee
+    - Github repo with resources:
+      - Sam to meet with previous SatRdays organizers (ex. [SatRdays Columbus 2021](https://columbus2021.satrdays.org/)) to learn more about steps to organize and available resources
+      - Guidelines for landing and registration pages
+      - RConsortium social promo
+      - Sam to invite someone from RStudio open source team that speaks French (Lionel or Romain?)
+
+2. Updates from Kevin: Botswana R User Group teamed up with Eswatini on co-Meetup fireside chat
+
+  - Next up: joint event with Botswana R-Ladies
+  - Gradually increase scope by teaming up with other local-ish meetups (i.e. Zimbabwe) across similar timezones
+  - Using the Python Ireland Zoom account
+      - We should give them an RC one, Joe and Elisa will look into this
+  - Ghana RUGS group has been giving presentations and could use some promotion 
+  
+3. Collaboration with RUGS Committee
+
+  - 2022 program posted: https://www.r-consortium.org/projects/r-user-group-support-program
+  - Needs to adhere to CoC --> Sam to share updated CoC with Jesse to update on landing page 
+  - New grant management software for financial tracking, contact points, oversight, and governance
+    - Joseph has been single person administering the RUGS program for 5 years, so it's time to get more people involved to increase the scope of operations (EX. Zooom, CoC, promotion, etc.)
+    - How do we share this knowledge and how can we use it to help others?
+    - Program management of RUGS will come from IDEA and Marketing committees (review/approve grants, support the ones successfully approved) --> should have 3 representatives with clearly defined criteria
+    - R-IDEA as proactive part of RUGS (i.e. identifying where there should be user groups that don't currently exist, supporting organizers that are currently struggling, recruiting speakers across groups, etc.)
+    - Goal is to go live by March 28th. Next step is a demo and training for ISC + others
+    - Part of these IDEA meetings could be reviewing applications and ongoing meetups 
+
+4. Meetup.com has been selling ads
+
+- Only visible to participants, not organizers 
+- Alternative to Meetup: LinkedIn livestreams?
+- Other alternatives: https://github.com/coderbyheart/open-source-meetup-alternatives
+  
+## Next meeting: Monday, April 4th at 7pm UTC
+    
