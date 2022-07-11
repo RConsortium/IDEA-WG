@@ -1,0 +1,54 @@
+# R Community Inclusion, Diversity, Equity, & Accesibility (IDEA) 2022-06-06
+
+Past meeting notes can be found here: https://github.com/RConsortium/IDEA-WG
+
+Google Calendar: https://calendar.r-consortium.org
+
+## Present
+
+- Samantha Toet
+- Joseph Rickert
+- Kevin O’Brien
+- Katherine Jeschke
+- Derrick Kearney
+- gwynn sturdevant
+
+## Agenda
+
+1. Github housekeeping: Proposal to create new Github repo called “R Community IDEA” for future meeting notes and better project organization → Joe investigating with Linux Foundation 
+  - Individual projects tracked as GH projects
+  - Structure of committee: should we create more formal roles and assignments, that way we can better recruit others/RC members?
+    - “Mission Impossible structure”: taskforce structure vs. long standing roles; taskforce allows for flexibility and prevents burnout 
+    - Roles defined on kanban board 
+
+2. Virtual SatRdays Francophone West Africa: August 6th, 10am - 2pm WAT (5am EST) (9am UTC)
+  - Project tracking: https://github.com/RConsortium/RCDI-WG/projects/1
+  - Registration page: https://www.eventbrite.com/e/billets-francophone-satrday-335508353517
+  - Speakers accepted: Cheikh Fall, Ehouman Evans, Marie Ruthe DAGO (Intro to R), Aminata Ndiaye (R in Epidemiology)
+  - Working on finding someone from RStudio 
+  - Who will MC or moderate? 
+  - Sam can translate content on website to French 
+    - NEED: moderator that speaks French?
+    - NEED: virtual volunteers
+
+- Next steps:
+  - Finalize speakers and agenda (theme: how to get involved with R/epidemiology)
+  - Speaker onboarding and training sessions 
+  - Finalize conferencing mechanism (zoom? Hoppin? What does RC Marketing recommend?) 
+  - LF has zoom webinar 
+  - Registration page: code of conduct, SatRdays info, IDEA info, speaker headshots, bios, talk titles 
+  - Hero image instead of website 
+  - Promotion: blog posts, interviews, social media (English & French), connect with local RLadies and UseR chapters  
+  - Consider contacting https://girlsinictniger.org/ for additional speaker
+
+3. Collaboration with RUGS Committee
+  - 2022 program posted: https://www.r-consortium.org/projects/r-user-group-support-program
+  - Reviews submitted 
+  - Next steps: promote and introduce to other orgs 
+
+4. Accessibility in R projects 
+- NLP for alt-text in ggplot2
+- ISC proposal not funded
+- Participating in panel discussion at JSM
+
+## Next meeting: Monday, July 11th (note new date) at 7:00pm UTC 
