@@ -1,0 +1,58 @@
+# R Community Inclusion, Diversity, Equity, & Accesibility (IDEA) 2022-05-02
+
+Past meeting notes can be found here: https://github.com/RConsortium/IDEA-WG
+
+Google Calendar: https://calendar.r-consortium.org
+
+## Present
+
+- Samantha Toet
+- Joseph Rickert
+- Kevin O’Brien
+- gwynn sturdevant
+
+
+## Agenda
+
+1. Virtual SatRdays Francophone West Africa: Sam scheduling call with organizing committee (RConsortium, RStudio, Applied-EPI, individual contributors)
+  - Date of event: Aug 6th  
+  - Project management tracking: https://github.com/RConsortium/RCDI-WG/projects/1
+  - Topic/theme: how to get involved with R/epidemiology
+    - Common thread to series: sustainable development
+    - Talks/speakers: R-Ladies Cotonou, Applied EPI, maybe someone French-speaking from RStudio?, ThinkR, 
+  - Finalize roles:
+    - Committee lead: finalize schedule, oversee and support other organizers, review content 
+    - Speaker organizer: solicit and support speakers, rehearsals, work closely with committee lead
+    - Logistics organizer: manage virtual components (zoom, etc.) and work closely with website developer
+    - Website developer: create and update website, registration with logistics organizer → RConsortium Marketing Committee, Dave Parr? (davidrgparr@gmail.com) used to support tech (JR to reach out) 
+    - R-Consortium liaison: collaborate with R-Consortium marketing 
+    - RC-IDEA liaison: collaborate with RC-IDEA, Code of Conduct, additional support as needed
+
+2. Collaboration with RUGS Committee
+  - 2022 program posted: https://www.r-consortium.org/projects/r-user-group-support-program
+  - New grant management system for financial tracking, contact points, oversight, and governance 
+  - Joseph has been the single person administering for 5 years, so it’s time to get more people involved to increase the scope of operations (EX. Zoom, CoC, promotion, etc.) 
+  - How do we share this knowledge? How do we use it to help others? 
+  - Programs management from RUGs will come from R-IDEA and Marketing committee (review/approve grants, and support the ones that were successfully approved) → 3 representatives with clearly defined criteria 
+
+3. In-person events - many starting to do in-person events together, some require masks, some don’t, what’s the general policy?
+  - EX. https://twitter.com/endocrimes/status/1517445402378838016
+  - EX. ​​https://us.pycon.org/2022/attend/health-safety-guidelines/
+  - Should it be essential to report covid cases after a conference? 
+  - Are conferences doing health surveys following events? 
+
+4. Accessibility updates - gwynn applied for an R Consortium grant yesterday
+
+5. Bespoke program for supporting online events
+  - Goal: keep online events going smoothly 
+  - Centralized framework → can be part of RUGS collaboration plan
+  - Promotional materials, templates, etc. 
+  - Twitter vs. LinkedIn: many orgs block twitter and facebook 
+  - More coordination between meetup organizers and event planners 
+  - Global calendar to prevent event overlap (or too close together)
+  - More speaker recruitment → needs speaker directory
+  - Revision of existing RC-IDEA one and let individuals add themselves 
+  - Shared with RUGS leaders 
+  - Filterable (timezones, expertise, preferred days) 
+
+## Next meeting: Monday, June 6th at 7:00pm UTC
